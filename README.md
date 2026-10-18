@@ -69,6 +69,7 @@ Para consultar el tutorial detallado de vinculación con Credly, comparativa de 
 
 Mecanismos verificados para obtener certificaciones gratuitas y financiar estudios:
 
+- **AWS Builder Center Student Rewards:** Programa oficial para estudiantes verificados vía SheerID en [builder.aws.com/student-rewards](https://builder.aws.com/student-rewards) que otorga **1 año completo de suscripción gratuita a AWS Skill Builder**, créditos de $10 y $20 USD, y un **voucher de $100 USD para examen de certificación AWS** al acumular insignias.
 - **AWS All Builders Welcome Grant:** Beca de viaje completa (vuelos, hotel y pase de $2,099 USD) para asistir a AWS re:Invent en Las Vegas.
 - **AWS re/Start:** Formación intensiva gratuita de 12 semanas con vouchers al 100% para AWS Cloud Practitioner y AWS AI Practitioner.
 - **AWS AI & ML Scholars:** 4,500 becas completas de Nanodegrees en Udacity y 3 meses gratis de Skill Builder.

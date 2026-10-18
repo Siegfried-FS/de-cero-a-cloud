@@ -47,13 +47,15 @@ Fuente comunitaria de referencia y catálogo actualizado: [awsugplayavicente.com
 
 Muchos estudiantes desconocen que existen métodos legítimos y regulares para obtener saldo a favor y descuentos en certificaciones oficiales:
 
-1. **Retos y eventos de fin de semana en AWS Builder Center:**  
+1. **Programa oficial AWS Builder Center Student Rewards:**  
+   Al verificar tu condición académica mediante SheerID en [builder.aws.com/student-rewards](https://builder.aws.com/student-rewards) y completar tu perfil, obtienes **1 año de suscripción gratuita a AWS Skill Builder**. Al acumular actividad e insignias desbloqueas $10 USD (7 insignias), $20 USD (14 insignias) y un **voucher de $100 USD para examen de AWS Certification** (21 insignias). Consulta los detalles en [guias/aws-builder-center-y-student-rewards.md](aws-builder-center-y-student-rewards.md).
+2. **Retos y eventos de fin de semana en AWS Builder Center:**  
    AWS publica con regularidad desafíos técnicos, laboratorios temáticos y llamadas a escribir artículos donde otorgan cupones de $25 USD o $100 USD en créditos de consola a los participantes que completan las entregas dentro del plazo.
-2. **Asistencia a eventos de comunidad (Community Days y User Groups):**  
+3. **Asistencia a eventos de comunidad (Community Days y User Groups):**  
    Los eventos regionales como los **AWS Community Days** y los meetups presenciales u online organizados por grupos de usuarios suelen contar con dinámicas técnicas (como Kahoots o hackatones) donde los ponentes y patrocinadores donan códigos de crédito oficial.
-3. **AWS Academy (Descuento del 50% en certificaciones):**  
+4. **AWS Academy (Descuento del 50% en certificaciones):**  
    Si tu universidad o instituto tecnológico está afiliado a [AWS Academy](https://aws.amazon.com/es/training/awsacademy/), los estudiantes matriculados tienen acceso a material oficial y a un descuento directo del 50% en el voucher para presentar el examen CLF-C02 o SAA-C03.
-4. **AWS DeepRacer Student League:**  
+5. **AWS DeepRacer Student League:**  
    Competencia anual de aprendizaje por refuerzo (*Reinforcement Learning*) para estudiantes mayores de 16 años. Ofrece 10 horas mensuales de entrenamiento gratuito en consola de simulación y premios en créditos para los mejores tiempos de vuelta.
 
 ---

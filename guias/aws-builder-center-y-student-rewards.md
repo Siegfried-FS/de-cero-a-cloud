@@ -1,50 +1,58 @@
-# AWS Builder Center y recompensas para estudiantes
+# AWS Builder Center y recompensas oficiales para estudiantes
 
-La plataforma **AWS Builder Center** es el espacio oficial de Amazon Web Services diseñado para que la comunidad técnica comparta artículos, soluciones prácticas y arquitecturas reales. 
+El programa oficial **AWS Builder Center Student Rewards** está diseñado para que los estudiantes de educación superior acreditada conviertan su actividad técnica en beneficios tangibles, herramientas de formación y financiamiento para certificaciones sin costo económico ni necesidad de tarjeta bancaria.
 
-Para estudiantes y nuevos profesionales en Latinoamérica, participar activamente en esta plataforma abre oportunidades tangibles de aprendizaje y acceso a recursos.
-
----
-
-## 1. Beneficios para estudiantes
-
-1. **Créditos de nube (AWS Student Rewards):**  
-   A través de programas como AWS Educate y dinámicas estudiantiles en Builder Center, los alumnos pueden acceder a créditos promocionales para correr laboratorios sin costo y probar arquitecturas personales.
-2. **Entornos agénticos y desarrollo asistido por IA (Kiro y PartyRock):**  
-   Acceso a entornos modernos guiados por especificaciones (*Spec-Driven Development*) como Kiro (Desktop, CLI y Web) y prototipado sin código con Amazon Bedrock PartyRock, donde los estudiantes diseñan arquitecturas y construyen código colaborando con agentes inteligentes en lugar de depender de autocompletadores tradicionales.
-3. **Visibilidad ante la comunidad global:**  
-   Los artículos técnicos publicados son leídos por arquitectos, líderes de grupos de usuarios (User Groups) y especialistas de toda la región.
-4. **Participación en retos comunitarios:**  
-   Convocatorias abiertas como el desafío global AWS 10,000 AIdeas, donde proyectos estudiantiles compiten por reconocimientos y apoyo técnico.
+Portal oficial del programa: [builder.aws.com/student-rewards](https://builder.aws.com/student-rewards)
 
 ---
 
-## 2. Cómo registrar tu perfil en AWS Builder Center
+## 1. Recompensas exclusivas para estudiantes verificados
 
-1. Ingresa al portal oficial: [builder.aws.com](https://builder.aws.com/).
-2. Haz clic en **Sign In** y selecciona tu método de autenticación preferido (AWS Builder ID o cuenta de Amazon).
-3. Completa tu biografía con total transparencia:
-   - Indica que eres estudiante o participante del programa De cero a cloud.
-   - Comparte tus intereses técnicos (seguridad, redes, desarrollo web, DevOps).
-   - Enlaza tu perfil de GitHub y tu usuario de LinkedIn.
-4. Únete al espacio de tu comunidad local: busca y sigue al **AWS User Group Playa Vicente** para estar al tanto de las actividades y eventos en vivo.
+A diferencia de los usuarios generales, los estudiantes que validan su condición académica desbloquean un paquete escalonado de beneficios de alto impacto:
 
----
-
-## 3. Cómo publicar tu primer contenido técnico
-
-La plataforma cuenta con un editor markdown nativo y componentes integrados:
-
-- **Estructura recomendada:** Título claro, descripción concisa, arquitectura y lecciones aprendidas.
-- **Etiquetas de plataforma:** Agrega etiquetas relevantes como `aws-user-groups`, `students`, `cloud-security` o `beginners`.
-- **Hashtags en el cuerpo:** Agrega hashtags comunitarios al final de tu publicación (por ejemplo: `#DeCeroACloud #AWSCommunity #Estudiantes`).
-- **Pestañas interactivas:** Puedes alternar explicaciones entre consola de AWS y comandos CLI usando el componente `<SimpleTabs>`.
+1. **Suscripción anual gratuita a AWS Skill Builder:**  
+   Al verificar tu condición de estudiante y completar tu perfil (foto e información biográfica), obtienes **1 año completo de suscripción individual a AWS Skill Builder**. Esto incluye acceso a más de 900 cursos, laboratorios prácticos con consolas reales de AWS aprovisionadas, preparación oficial para exámenes y todos los roles avanzados del simulador 3D AWS Cloud Quest.
+2. **Créditos de consola y vouchers de certificación por insignias en Builder Center:**  
+   A medida que te mantienes activo en la plataforma publicando artículos, comentando en debates y conservando rachas de lectura, desbloqueas insignias que entregan recompensas directas:
+   - **7 insignias:** $10 USD en créditos de consola de AWS.
+   - **14 insignias:** $20 USD en créditos de consola de AWS.
+   - **21 insignias:** **Vale oficial de $100 USD para exámenes de AWS Certification** (cubre casi la totalidad del examen Cloud Practitioner o gran parte de Solutions Architect Associate).
 
 ---
 
-## 4. Honestidad técnica como principio de publicación
+## 2. El proceso de verificación en tres pasos
 
-Al publicar en Builder Center:
-- No inventes resultados ni expongas arquitecturas que no hayas desplegado y probado.
-- Comparte el presupuesto real: si algo te costó $0.05 USD o corrió en la capa gratuita, transparentalo.
-- Mascara siempre tus identificadores de cuenta y llaves de acceso en capturas de pantalla y fragmentos de terminal.
+El trámite toma aproximadamente cinco minutos y se gestiona mediante un proveedor externo seguro:
+
+1. **Verificar tu condición de estudiante con SheerID:**  
+   - Inicia sesión en [builder.aws.com](https://builder.aws.com/) con tu AWS Builder ID.
+   - Accede a la sección de Student Rewards e inicia la verificación con **SheerID**.
+   - Ingresa tu nombre completo, el nombre de tu institución de educación superior acreditada y tu correo electrónico institucional (terminación `.edu`, `.mx`, etc.).
+   - La mayoría de las validaciones se resuelven en minutos; si la plataforma solicita comprobante de estudios o tira de materias, la revisión tarda entre 24 y 48 horas.
+2. **Completar tu perfil de Builder Center:**  
+   - Sube una fotografía o avatar a tu perfil.
+   - Redacta una breve descripción en la sección biográfica compartiendo tus intereses técnicos (redes, seguridad, desarrollo agéntico con Kiro, serverless).
+   - Este paso activa de inmediato la suscripción anual gratuita a Skill Builder.
+3. **Generar actividad y reclamar tus cupones:**  
+   - Documenta los laboratorios que realizas en el programa De cero a cloud.
+   - Publica artículos técnicos siguiendo el principio de conectar antes que impresionar.
+   - Al acumular 7, 14 y 21 insignias, canjea tus créditos y tu voucher de examen desde tu panel de recompensas.
+
+---
+
+## 3. Integración en el campus: AWS Student Builder Groups (SBG)
+
+Para los estudiantes universitarios que desean llevar la comunidad a su facultad:
+
+- **Qué son:** Capítulos oficiales respaldados por AWS para organizar talleres, grupos de estudio y proyectos colaborativos.
+- **Beneficios:** Respaldo institucional, kits de bienvenida, créditos para actividades en laboratorios de la universidad y mentoría directa.
+- **Cómo participar o fundar uno:** [builder.aws.com/community/student-builder-groups](https://builder.aws.com/community/student-builder-groups)
+
+---
+
+## 4. Honestidad técnica al publicar artículos
+
+Para que tus publicaciones en Builder Center sean aprobadas y reconocidas por la comunidad:
+- No copies documentación oficial de manera automática; documenta qué construiste, qué falló y cómo lo solucionaste.
+- Transparenta los costos reales de cada práctica ($0.00 USD en capa gratuita).
+- Mascara siempre cualquier llave de acceso o credencial confidencial en fragmentos de terminal o capturas de pantalla.
