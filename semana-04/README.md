@@ -1,7 +1,7 @@
 # Semana 04: Seguridad práctica, IAM, auditoria en CloudTrail y mitigacion
 
 **Programa:** De cero a cloud — [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/)  
-**Ponente:** Roberto Flores Segundo (Lead Auditor ISO 27001:2022 y AWS Certified Cloud Practitioner)  
+**Ponente:** [Roberto Flores Segundo](https://www.linkedin.com/in/roberto-flores-b1a012322/) (Lead Auditor ISO 27001:2022 y AWS Certified Cloud Practitioner)  
 **Modalidad:** Online en vivo (Discord Live)  
 **Grabacion en YouTube:** [Ver clase completa en YouTube](https://www.youtube.com/watch?v=czvDo611i8A)  
 **Playlist oficial:** [De cero a cloud en YouTube](https://www.youtube.com/watch?v=8kL1HYphkns&list=PLGzDHDkhvPhg)

@@ -1,7 +1,7 @@
 # Semana 11: Como entrar a trabajar a un AWS Partner sin saber de AWS
 
 **Programa:** De cero a cloud — [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/)  
-**Ponente:** Roberto Flores Segundo (Líder [AWS UG Playa Vicente](https://www.awsugplayavicente.com/))  
+**Ponente:** [Roberto Flores Segundo](https://www.linkedin.com/in/roberto-flores-b1a012322/) (Líder [AWS UG Playa Vicente](https://www.awsugplayavicente.com/))  
 **Modalidad:** Online en vivo (Discord Live)  
 **Registro oficial:** [Evento en AWS Builder Center](https://builder.aws.com/connect/event/eed3c762-2394-395d-a41b-99ce74a22063)  
 **Grabacion en YouTube:** [Ver clase completa en YouTube](https://www.youtube.com/watch?v=ty-iHdY94_U)  

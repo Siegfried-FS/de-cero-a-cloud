@@ -38,18 +38,18 @@ A continuación se presenta el registro de cada sesión, con el enlace directo a
 
 | Semana | Tema práctico | Ponente y rol | Grabación | Bitácora y laboratorio |
 |:---:|---|---|:---:|:---:|
-| 01 | Fundamentos de AWS, Amazon S3, AWS CLI y despliegue estático | Roberto Flores Segundo (Líder [AWS UG Playa Vicente](https://www.awsugplayavicente.com/)) | [Ver video](https://www.youtube.com/watch?v=8kL1HYphkns) | [semana-01/README.md](semana-01/README.md) |
-| 02 | Cómputo con Amazon EC2, modelos cloud e introducción a IAM roles | Roberto Flores Segundo (Líder [AWS UG Playa Vicente](https://www.awsugplayavicente.com/)) | [Ver video](https://www.youtube.com/watch?v=Q4GIVWs0qBg) | [semana-02/README.md](semana-02/README.md) |
-| 03 | Escalabilidad y bases de datos: Amazon DynamoDB, RDS y Aurora | Sairi Ávila (AWS Community Builder) | [Ver video](https://www.youtube.com/watch?v=DjAbRRVF1f4) | [semana-03/README.md](semana-03/README.md) |
-| 04 | Seguridad práctica, IAM, auditoría en CloudTrail y mitigación | Roberto Flores Segundo (Lead Auditor ISO 27001) | [Ver video](https://www.youtube.com/watch?v=czvDo611i8A) | [semana-04/README.md](semana-04/README.md) |
-| 05 | Redes en la nube: Amazon VPC, subredes y acceso seguro con SSM | Roberto Flores Segundo (Líder [AWS UG Playa Vicente](https://www.awsugplayavicente.com/)) | [Ver video](https://www.youtube.com/watch?v=RcCGLSTSV0U) | [semana-05/README.md](semana-05/README.md) |
-| 06 | Arquitecturas serverless: AWS Lambda, EventBridge y API Gateway | David Sol (Senior Cloud Architect y Community Builder) | [Ver video](https://www.youtube.com/watch?v=VlJrT8vMgEg) | [semana-06/README.md](semana-06/README.md) |
-| 07 | De cero a producción: desarrollo asistido por IA y AWS Amplify | John Kleinad (AWS Community Builder en Dev Tools) | [Ver video](https://www.youtube.com/watch?v=aL5Cj5t1i-4) | [semana-07/README.md](semana-07/README.md) |
-| 08 | Inteligencia artificial generativa sin código con PartyRock y Bedrock | Joselyn Lagunas (Fundadora AWSpectrum LATAM) | [Ver video](https://www.youtube.com/watch?v=MkO32Tm_kIo) | [semana-08/README.md](semana-08/README.md) |
-| 09 | Chatbots con IA: Amazon Lex, Bedrock, OpenSearch y Amazon S3 | Daniel Paredes (Líder AWS Student Builder Group UNAM) | [Ver video](https://www.youtube.com/watch?v=ds_IrxVN-YI) | [semana-09/README.md](semana-09/README.md) |
-| 10 | IA aplicada y accesibilidad: el caso real de CogniPath | Misael Calisaya (Finalista Global AWS AIdeas / UCASAL) | [Ver video](https://www.youtube.com/watch?v=XyhME9QdBnI) | [semana-10/README.md](semana-10/README.md) |
-| 11 | Cómo entrar a trabajar a un AWS Partner sin saber de AWS | Roberto Flores Segundo (Líder [AWS UG Playa Vicente](https://www.awsugplayavicente.com/)) | [Ver video](https://www.youtube.com/watch?v=ty-iHdY94_U) | [semana-11/README.md](semana-11/README.md) |
-| 12 | Clausura oficial y demo day de proyectos de alumnos | Mariana Ponce, Sandra Olier, Gustavo Herrera | Próximamente en YouTube | [semana-12/README.md](semana-12/README.md) |
+| 01 | Fundamentos de AWS, Amazon S3, AWS CLI y despliegue estático | [Roberto Flores Segundo](https://www.linkedin.com/in/roberto-flores-b1a012322/) (Líder [AWS UG Playa Vicente](https://www.awsugplayavicente.com/)) | [Ver video](https://www.youtube.com/watch?v=8kL1HYphkns) | [semana-01/README.md](semana-01/README.md) |
+| 02 | Cómputo con Amazon EC2, modelos cloud e introducción a IAM roles | [Roberto Flores Segundo](https://www.linkedin.com/in/roberto-flores-b1a012322/) (Líder [AWS UG Playa Vicente](https://www.awsugplayavicente.com/)) | [Ver video](https://www.youtube.com/watch?v=Q4GIVWs0qBg) | [semana-02/README.md](semana-02/README.md) |
+| 03 | Escalabilidad y bases de datos: Amazon DynamoDB, RDS y Aurora | [Sairi Ávila](https://www.linkedin.com/in/sairiavila/) (AWS Community Builder) | [Ver video](https://www.youtube.com/watch?v=DjAbRRVF1f4) | [semana-03/README.md](semana-03/README.md) |
+| 04 | Seguridad práctica, IAM, auditoría en CloudTrail y mitigación | [Roberto Flores Segundo](https://www.linkedin.com/in/roberto-flores-b1a012322/) (Lead Auditor ISO 27001) | [Ver video](https://www.youtube.com/watch?v=czvDo611i8A) | [semana-04/README.md](semana-04/README.md) |
+| 05 | Redes en la nube: Amazon VPC, subredes y acceso seguro con SSM | [Roberto Flores Segundo](https://www.linkedin.com/in/roberto-flores-b1a012322/) (Líder [AWS UG Playa Vicente](https://www.awsugplayavicente.com/)) | [Ver video](https://www.youtube.com/watch?v=RcCGLSTSV0U) | [semana-05/README.md](semana-05/README.md) |
+| 06 | Arquitecturas serverless: AWS Lambda, EventBridge y API Gateway | [David Sol](https://www.linkedin.com/in/soldavidcloud/) (Senior Cloud Architect y Community Builder) | [Ver video](https://www.youtube.com/watch?v=VlJrT8vMgEg) | [semana-06/README.md](semana-06/README.md) |
+| 07 | De cero a producción: desarrollo asistido por IA y AWS Amplify | [John Kleinad](https://www.linkedin.com/in/johnkleinad/) (AWS Community Builder en Dev Tools) | [Ver video](https://www.youtube.com/watch?v=aL5Cj5t1i-4) | [semana-07/README.md](semana-07/README.md) |
+| 08 | Inteligencia artificial generativa sin código con PartyRock y Bedrock | [Joselyn Lagunas](https://www.linkedin.com/in/joselyn-lagunas/) (Fundadora AWSpectrum LATAM) | [Ver video](https://www.youtube.com/watch?v=MkO32Tm_kIo) | [semana-08/README.md](semana-08/README.md) |
+| 09 | Chatbots con IA: Amazon Lex, Bedrock, OpenSearch y Amazon S3 | [Daniel Paredes](https://www.linkedin.com/in/wallsified/) (Líder AWS Student Builder Group UNAM) | [Ver video](https://www.youtube.com/watch?v=ds_IrxVN-YI) | [semana-09/README.md](semana-09/README.md) |
+| 10 | IA aplicada y accesibilidad: el caso real de CogniPath | [Misael Calisaya](https://www.linkedin.com/in/misaelcalisaya/) (Finalista Global AWS AIdeas / UCASAL) | [Ver video](https://www.youtube.com/watch?v=XyhME9QdBnI) | [semana-10/README.md](semana-10/README.md) |
+| 11 | Cómo entrar a trabajar a un AWS Partner sin saber de AWS | [Roberto Flores Segundo](https://www.linkedin.com/in/roberto-flores-b1a012322/) (Líder [AWS UG Playa Vicente](https://www.awsugplayavicente.com/)) | [Ver video](https://www.youtube.com/watch?v=ty-iHdY94_U) | [semana-11/README.md](semana-11/README.md) |
+| 12 | Clausura oficial y demo day de proyectos de alumnos | [Mariana Ponce](https://www.linkedin.com/in/mariana-ponce-sep%C3%BAlveda-88744272/), [Sandra Elizabeth Olier](https://www.linkedin.com/in/sandra-olier), Gustavo Herrera | Próximamente en YouTube | [semana-12/README.md](semana-12/README.md) |
 
 ---
 
@@ -136,6 +136,7 @@ aws ec2 describe-instances \
 - **Grupo de WhatsApp:** [Comunidad oficial en WhatsApp](https://chat.whatsapp.com/KXQYW7V00q12cSoeijob4h)
 - **Canal de Telegram:** [@AUGPlayaVicente](https://t.me/AUGPlayaVicente)
 - **Comunidad en Meetup:** [AWS User Group Playa Vicente](https://www.meetup.com/aws-user-group-playa-vicente/)
+- **LinkedIn institucional:** [AWS User Group Playa Vicente en LinkedIn](https://www.linkedin.com/company/aws-user-group-playa-vicente/)
 - **Servidor de Discord:** [Comunidad en vivo](https://discord.gg/eEWSVS23cW)
 
 ### Líder de comunidad y contacto técnico

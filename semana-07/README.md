@@ -1,8 +1,8 @@
 # Semana 07: De cero a produccion: desarrollo asistido por IA y AWS Amplify
 
 **Programa:** De cero a cloud — [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/)  
-**Ponente invitado:** John Kleinad (AWS Community Builder en Dev Tools, Full-Stack Dev UX|UI & Cloud Engineer)  
-**Host:** Roberto Flores Segundo  
+**Ponente invitado:** [John Kleinad](https://www.linkedin.com/in/johnkleinad/) (AWS Community Builder en Dev Tools, Full-Stack Dev UX|UI & Cloud Engineer)  
+**Host:** [Roberto Flores Segundo](https://www.linkedin.com/in/roberto-flores-b1a012322/)  
 **Modalidad:** Online en vivo (Discord Live)  
 **Grabacion en YouTube:** [Ver clase completa en YouTube](https://www.youtube.com/watch?v=aL5Cj5t1i-4)  
 **Playlist oficial:** [De cero a cloud en YouTube](https://www.youtube.com/watch?v=8kL1HYphkns&list=PLGzDHDkhvPhg)
