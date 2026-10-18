@@ -93,6 +93,6 @@ Si deseas consultar el espacio general y las dinámicas completas del programa:
 Una vez que completes cualquiera de los laboratorios del programa De cero a cloud:
 
 1. **AWS Builder Center:** Redacta un artículo breve explicando tu arquitectura y lecciones aprendidas.
-2. **Hub Comunitario de Creadores:** Registra tu publicación en [creadores.awsugplayavicente.com](https://creadores.awsugplayavicente.com/) para que el AWS User Group Playa Vicente te ayude a difundirla y darle alcance en la región.
+2. **Hub Comunitario de Creadores:** Registra tu publicación en [creadores.awsugplayavicente.com](https://creadores.awsugplayavicente.com/) para que el [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/) te ayude a difundirla y darle alcance en la región.
 3. **GitHub:** Sube tu código con un archivo `README.md` claro que permita a cualquier persona clonar y correr la práctica.
 4. **LinkedIn:** Comparte un resumen directo del problema que resolviste etiquetando a tus compañeros de estudio.

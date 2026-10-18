@@ -1,6 +1,6 @@
 # Semana 10: IA aplicada y accesibilidad: el caso real de CogniPath
 
-**Programa:** De cero a cloud — AWS User Group Playa Vicente  
+**Programa:** De cero a cloud — [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/)  
 **Ponente invitado:** Misael Calisaya (Creador de CogniPath, AWS Student Builder Leader UCASAL, Salta, Argentina)  
 **Host:** Roberto Flores Segundo  
 **Modalidad:** Online en vivo (Discord Live)  

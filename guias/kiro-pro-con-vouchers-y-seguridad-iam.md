@@ -48,6 +48,6 @@ Un error común al habilitar herramientas de desarrollo es utilizar credenciales
 
 - **Artículo técnico completo con evidencias en AWS Builder Center:**  
   [Leer artículo detallado con capturas de consola y terminal](https://lnkd.in/ed9AZbgm)
-- **Hub Comunitario de Creadores (AWS UG Playa Vicente):**  
+- **Hub Comunitario de Creadores ([AWS UG Playa Vicente](https://www.awsugplayavicente.com/)):**  
   [creadores.awsugplayavicente.com](https://creadores.awsugplayavicente.com/)  
-  Plataforma comunitaria impulsada por el AWS User Group Playa Vicente diseñada específicamente para visibilizar, amplificar y dar alcance a los artículos y tutoriales técnicos redactados en español por builders de toda Latinoamérica.
+  Plataforma comunitaria impulsada por el [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/) diseñada específicamente para visibilizar, amplificar y dar alcance a los artículos y tutoriales técnicos redactados en español por builders de toda Latinoamérica.

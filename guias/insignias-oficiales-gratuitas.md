@@ -142,4 +142,4 @@ Para asegurar que tus insignias se registren correctamente en tu perfil público
 4. **Aceptar la emisión en Credly:**
    En un plazo habitual de 24 a 48 horas recibirás un correo electrónico con el asunto de invitación de Credly. Haz clic en "Accept your badge" y configura la visibilidad de la insignia como **Pública**.
 5. **Compartir en redes profesionales:**
-   Enlaza tu credencial a tu perfil de LinkedIn y comparte el logro con tus compañeros del **AWS User Group Playa Vicente** bajo el hashtag `#DeCeroACloud`.
+   Enlaza tu credencial a tu perfil de LinkedIn y comparte el logro con tus compañeros del [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/) bajo el hashtag `#DeCeroACloud`.

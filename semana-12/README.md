@@ -1,6 +1,6 @@
 # Semana 12: Clausura oficial y demo day de proyectos de alumnos
 
-**Programa:** De cero a cloud — AWS User Group Playa Vicente  
+**Programa:** De cero a cloud — [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/)  
 **Host y moderador:** Roberto Flores Segundo  
 **Modalidad:** Online en vivo (Discord Live)  
 **Registro oficial:** [Evento en AWS Builder Center](https://builder.aws.com/connect/event/aa0ad2d0-8eca-373c-9e33-ff85e6065c8e)  
@@ -31,4 +31,4 @@ El Demo Day represento la culminacion del programa de 12 semanas, donde tres est
 
 El objetivo de **De cero a cloud** nunca fue acumular horas de teoria, sino demostrar que con perseverancia, comunidad y acceso guiado a herramientas modernas de nube, cualquier persona puede pasar de tener cero experiencia a defender publicamente una arquitectura tecnologica propia.
 
-Invitamos a todos los estudiantes a continuar compartiendo sus avances, escribiendo en AWS Builder Center y participando activamente en los encuentros del **AWS User Group Playa Vicente**.
+Invitamos a todos los estudiantes a continuar compartiendo sus avances, escribiendo en AWS Builder Center y participando activamente en los encuentros del [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/).

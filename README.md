@@ -1,6 +1,6 @@
 # De cero a cloud: bitácora técnica y recursos para estudiantes
 
-Repositorio público de recursos, grabaciones y bitácoras prácticas del programa **De cero a cloud**, una iniciativa formativa comunitaria y 100% gratuita de 12 semanas organizada por el **AWS User Group Playa Vicente** (Veracruz, México).
+Repositorio público de recursos, grabaciones y bitácoras prácticas del programa **De cero a cloud**, una iniciativa formativa comunitaria y 100% gratuita de 12 semanas organizada por el [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/) (Veracruz, México).
 
 Este espacio está pensado para estudiantes, desarrolladores y entusiastas que buscan aprender computación en la nube con Amazon Web Services (AWS) mediante laboratorios reales, sin incurrir en costos accidentales ($0.00 USD) y dando el salto de simples consumidores de tutoriales a constructores que comparten lo aprendido con su comunidad.
 
@@ -37,17 +37,17 @@ A continuación se presenta el registro de cada sesión, con el enlace directo a
 
 | Semana | Tema práctico | Ponente y rol | Grabación | Bitácora y laboratorio |
 |:---:|---|---|:---:|:---:|
-| 01 | Fundamentos de AWS, Amazon S3, AWS CLI y despliegue estático | Roberto Flores Segundo (Líder AWS UG Playa Vicente) | [Ver video](https://www.youtube.com/watch?v=8kL1HYphkns) | [semana-01/README.md](semana-01/README.md) |
-| 02 | Cómputo con Amazon EC2, modelos cloud e introducción a IAM roles | Roberto Flores Segundo (Líder AWS UG Playa Vicente) | [Ver video](https://www.youtube.com/watch?v=Q4GIVWs0qBg) | [semana-02/README.md](semana-02/README.md) |
+| 01 | Fundamentos de AWS, Amazon S3, AWS CLI y despliegue estático | Roberto Flores Segundo (Líder [AWS UG Playa Vicente](https://www.awsugplayavicente.com/)) | [Ver video](https://www.youtube.com/watch?v=8kL1HYphkns) | [semana-01/README.md](semana-01/README.md) |
+| 02 | Cómputo con Amazon EC2, modelos cloud e introducción a IAM roles | Roberto Flores Segundo (Líder [AWS UG Playa Vicente](https://www.awsugplayavicente.com/)) | [Ver video](https://www.youtube.com/watch?v=Q4GIVWs0qBg) | [semana-02/README.md](semana-02/README.md) |
 | 03 | Escalabilidad y bases de datos: Amazon DynamoDB, RDS y Aurora | Sairi Ávila (AWS Community Builder) | [Ver video](https://www.youtube.com/watch?v=DjAbRRVF1f4) | [semana-03/README.md](semana-03/README.md) |
 | 04 | Seguridad práctica, IAM, auditoría en CloudTrail y mitigación | Roberto Flores Segundo (Lead Auditor ISO 27001) | [Ver video](https://www.youtube.com/watch?v=czvDo611i8A) | [semana-04/README.md](semana-04/README.md) |
-| 05 | Redes en la nube: Amazon VPC, subredes y acceso seguro con SSM | Roberto Flores Segundo (Líder AWS UG Playa Vicente) | [Ver video](https://www.youtube.com/watch?v=RcCGLSTSV0U) | [semana-05/README.md](semana-05/README.md) |
+| 05 | Redes en la nube: Amazon VPC, subredes y acceso seguro con SSM | Roberto Flores Segundo (Líder [AWS UG Playa Vicente](https://www.awsugplayavicente.com/)) | [Ver video](https://www.youtube.com/watch?v=RcCGLSTSV0U) | [semana-05/README.md](semana-05/README.md) |
 | 06 | Arquitecturas serverless: AWS Lambda, EventBridge y API Gateway | David Sol (Senior Cloud Architect y Community Builder) | [Ver video](https://www.youtube.com/watch?v=VlJrT8vMgEg) | [semana-06/README.md](semana-06/README.md) |
 | 07 | De cero a producción: desarrollo asistido por IA y AWS Amplify | John Kleinad (AWS Community Builder en Dev Tools) | [Ver video](https://www.youtube.com/watch?v=aL5Cj5t1i-4) | [semana-07/README.md](semana-07/README.md) |
 | 08 | Inteligencia artificial generativa sin código con PartyRock y Bedrock | Joselyn Lagunas (Fundadora AWSpectrum LATAM) | [Ver video](https://www.youtube.com/watch?v=MkO32Tm_kIo) | [semana-08/README.md](semana-08/README.md) |
 | 09 | Chatbots con IA: Amazon Lex, Bedrock, OpenSearch y Amazon S3 | Daniel Paredes (Líder AWS Student Builder Group UNAM) | [Ver video](https://www.youtube.com/watch?v=ds_IrxVN-YI) | [semana-09/README.md](semana-09/README.md) |
 | 10 | IA aplicada y accesibilidad: el caso real de CogniPath | Misael Calisaya (Finalista Global AWS AIdeas / UCASAL) | [Ver video](https://www.youtube.com/watch?v=XyhME9QdBnI) | [semana-10/README.md](semana-10/README.md) |
-| 11 | Cómo entrar a trabajar a un AWS Partner sin saber de AWS | Roberto Flores Segundo (Líder AWS UG Playa Vicente) | [Ver video](https://www.youtube.com/watch?v=ty-iHdY94_U) | [semana-11/README.md](semana-11/README.md) |
+| 11 | Cómo entrar a trabajar a un AWS Partner sin saber de AWS | Roberto Flores Segundo (Líder [AWS UG Playa Vicente](https://www.awsugplayavicente.com/)) | [Ver video](https://www.youtube.com/watch?v=ty-iHdY94_U) | [semana-11/README.md](semana-11/README.md) |
 | 12 | Clausura oficial y demo day de proyectos de alumnos | Mariana Ponce, Sandra Olier, Gustavo Herrera | Próximamente en YouTube | [semana-12/README.md](semana-12/README.md) |
 
 ---
@@ -127,7 +127,7 @@ aws ec2 describe-instances \
 
 ## 8. Comunidad y canales de contacto
 
-- **Organizador:** AWS User Group Playa Vicente (Veracruz, México)
+- **Organizador:** [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/) (Veracruz, México)
 - **Líder de comunidad:** Roberto Flores Segundo (Siegfried)
 - **Credenciales oficiales:** AWS Certified Cloud Practitioner y Lead Auditor ISO 27001:2022
 - **Sitio web:** [awsugplayavicente.com](https://www.awsugplayavicente.com/)

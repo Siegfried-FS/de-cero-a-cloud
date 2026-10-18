@@ -1,7 +1,7 @@
 # Semana 02: Computo con Amazon EC2, modelos cloud e introduccion a IAM roles
 
-**Programa:** De cero a cloud — AWS User Group Playa Vicente  
-**Ponente:** Roberto Flores Segundo (Lider AWS UG Playa Vicente)  
+**Programa:** De cero a cloud — [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/)  
+**Ponente:** Roberto Flores Segundo (Líder [AWS UG Playa Vicente](https://www.awsugplayavicente.com/))  
 **Modalidad:** Online en vivo (Discord Live)  
 **Grabacion en YouTube:** [Ver clase completa en YouTube](https://www.youtube.com/watch?v=Q4GIVWs0qBg)  
 **Playlist oficial:** [De cero a cloud en YouTube](https://www.youtube.com/watch?v=8kL1HYphkns&list=PLGzDHDkhvPhg)
@@ -12,12 +12,12 @@
 
 En esta clase aterrizamos los conceptos que suelen confundir en los examenes de certificacion mediante un servidor real en ejecucion:
 
-1. **Modelos cloud en la practica (IaaS, PaaS, SaaS):**  
+1. **Modelos cloud en la práctica (IaaS, PaaS, SaaS):**  
    Comparamos la administracion directa del sistema operativo en una maquina virtual (IaaS con EC2) frente a servicios de plataforma (PaaS) y software terminado (SaaS).
 2. **Lanzamiento de una instancia en capa gratuita:**  
    Aprovisionamos una instancia `t2.micro` utilizando Amazon Linux 2023 en `us-east-1`.
 3. **El dilema de la llave SSH vs IAM Role con SSM:**  
-   Explicamos el riesgo que implica crear llaves `.pem` locales que luego terminan olvidadas en descargas o repositorios. Mostramos como crear un IAM Role con la politica `AmazonSSMManagedInstanceCore` para conectarse a la terminal de Linux via AWS Systems Manager Session Manager, manteniendo el puerto 22 cerrado.
+   Explicamos el riesgo que implica crear llaves `.pem` locales que luego terminan olvidadas en descargas o repositorios. Mostramos como crear un IAM Role con la política `AmazonSSMManagedInstanceCore` para conectarse a la terminal de Linux via AWS Systems Manager Session Manager, manteniendo el puerto 22 cerrado.
 4. **Automatizacion con User Data:**  
    Inyectamos un script bash en el arranque de la instancia para que actualizara paquetes, instalara un servidor web y sirviera una pagina de estado sin intervencion manual.
 5. **Configuracion de Security Groups:**  

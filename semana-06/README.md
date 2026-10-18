@@ -1,6 +1,6 @@
 # Semana 06: Arquitecturas serverless: AWS Lambda, EventBridge y API Gateway
 
-**Programa:** De cero a cloud — AWS User Group Playa Vicente  
+**Programa:** De cero a cloud — [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/)  
 **Ponente invitado:** David Jonathan Sol Llaven (Senior Cloud Architect en Caylent, AWS Community Builder y especialista Serverless)  
 **Host:** Roberto Flores Segundo  
 **Modalidad:** Online en vivo (Discord Live)  
@@ -28,16 +28,16 @@ David Sol guio una masterclass de nivel arquitectonico sobre como estructurar ap
 
 ## 2. Recursos y materiales oficiales compartidos por David Sol
 
-Durante y despues de la sesion en vivo, David Sol puso a disposicion de los alumnos materiales complementarios de libre acceso:
+Durante y despues de la sesión en vivo, David Sol puso a disposicion de los alumnos materiales complementarios de libre acceso:
 
 - **Repositorio oficial en GitLab:** [gitlab.com/soldavid/20260826playavicente](https://gitlab.com/soldavid/20260826playavicente)  
-  Contiene el codigo fuente, las funciones Lambda de demostracion, los esquemas de eventos y las arquitecturas de referencia analizadas en la clase.
+  Contiene el código fuente, las funciones Lambda de demostracion, los esquemas de eventos y las arquitecturas de referencia analizadas en la clase.
 - **Diapositivas interactivas en Canva:** [Presentacion oficial de la clase](https://canva.link/t3j2y05dwueta4v)  
   Diapositivas completas con diagramas arquitectonicos de integracion entre API Gateway, Lambda y EventBridge.
 - **Perfil profesional del ponente:** [LinkedIn de David Sol](https://www.linkedin.com/in/soldavidcloud/)  
   Senior Cloud Architect en Caylent, AWS Community Builder, AWS Certified Solutions Architect - Professional y referente tecnico en computacion serverless en Latinoamerica.
 - **Dinamica de evaluacion e incentivo a la comunidad:**  
-  Al cierre de la sesion se realizo un Kahoot tecnico interactivo. David Sol dono generosamente **$100 USD en creditos oficiales de AWS** para el estudiante en primer lugar (Manu Morales), mientras que el AWS User Group Playa Vicente aporto **$25 USD adicionales en creditos** para el segundo lugar (Henry_to), con el fin de financiar laboratorios avanzados sin comprometer recursos personales.
+  Al cierre de la sesión se realizo un Kahoot tecnico interactivo. David Sol dono generosamente **$100 USD en creditos oficiales de AWS** para el estudiante en primer lugar (Manu Morales), mientras que el [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/) aporto **$25 USD adicionales en creditos** para el segundo lugar (Henry_to), con el fin de financiar laboratorios avanzados sin comprometer recursos personales.
 
 ---
 
@@ -66,4 +66,4 @@ def lambda_handler(event, context):
 ## 4. Lecciones operativas
 
 - **Timeout predeterminado:** Por omision, Lambda viene configurado con un tiempo de espera de 3 segundos. Si tu funcion realiza consultas externas lentas o procesa archivos pesados, fallara con error de tiempo agotado si no ajustas el parametro de timeout adecuadamente.
-- **Politica de ejecucion en IAM:** Toda funcion Lambda requiere un rol con permisos basicos (`AWSLambdaBasicExecutionRole`) para poder escribir sus registros de depuracion en Amazon CloudWatch Logs.
+- **Política de ejecucion en IAM:** Toda funcion Lambda requiere un rol con permisos basicos (`AWSLambdaBasicExecutionRole`) para poder escribir sus registros de depuracion en Amazon CloudWatch Logs.

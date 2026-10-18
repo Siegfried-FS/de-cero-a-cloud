@@ -1,6 +1,6 @@
-# Semana 08: Inteligencia artificial generativa sin codigo con PartyRock y Bedrock
+# Semana 08: Inteligencia artificial generativa sin código con PartyRock y Bedrock
 
-**Programa:** De cero a cloud — AWS User Group Playa Vicente  
+**Programa:** De cero a cloud — [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/)  
 **Ponente invitada:** Joselyn Lagunas (Shel Ramos, Fundadora de AWSpectrum LATAM)  
 **Host:** Roberto Flores Segundo  
 **Modalidad:** Online en vivo (Discord Live)  
@@ -22,7 +22,7 @@ Shel Ramos mostro como cualquier persona puede pasar de tener una idea a despleg
 4. **Ingenieria de prompts orientada a resultados:**  
    Tecnicas para definir roles claros, limitar el alcance de las respuestas, forzar estructuras consistentes (como tablas o viñetas tecnicas) y reducir la aparicion de datos inventados (alucinaciones).
 5. **Publicacion comunitaria:**  
-   Como compartir la aplicacion terminada mediante un enlace publico para que otros estudiantes y evaluadores puedan probarla en tiempo real.
+   Como compartir la aplicacion terminada mediante un enlace público para que otros estudiantes y evaluadores puedan probarla en tiempo real.
 
 ---
 
@@ -37,4 +37,4 @@ Shel Ramos mostro como cualquier persona puede pasar de tener una idea a despleg
 ## 3. Lecciones operativas
 
 - **Sensibilidad al contexto:** Los modelos fundacionales responden mejor cuando se les delimita con exactitud que rol deben asumir y cual es la audiencia de la salida (por ejemplo: "Eres un auditor de seguridad explicando un reporte a un director de tecnologia").
-- **Herramienta ideal para prototipado rapido:** PartyRock demostro ser el entorno predilecto para validar ideas antes de pasar a desarrollar una solucion serverless completa con Amazon Bedrock en codigo Python o TypeScript.
+- **Herramienta ideal para prototipado rapido:** PartyRock demostro ser el entorno predilecto para validar ideas antes de pasar a desarrollar una solucion serverless completa con Amazon Bedrock en código Python o TypeScript.

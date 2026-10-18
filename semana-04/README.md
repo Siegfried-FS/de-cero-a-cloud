@@ -1,6 +1,6 @@
-# Semana 04: Seguridad practica, IAM, auditoria en CloudTrail y mitigacion
+# Semana 04: Seguridad práctica, IAM, auditoria en CloudTrail y mitigacion
 
-**Programa:** De cero a cloud — AWS User Group Playa Vicente  
+**Programa:** De cero a cloud — [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/)  
 **Ponente:** Roberto Flores Segundo (Lead Auditor ISO 27001:2022 y AWS Certified Cloud Practitioner)  
 **Modalidad:** Online en vivo (Discord Live)  
 **Grabacion en YouTube:** [Ver clase completa en YouTube](https://www.youtube.com/watch?v=czvDo611i8A)  
@@ -10,12 +10,12 @@
 
 ## 1. Lo que realmente se enseno en vivo
 
-En esta sesion abordamos el dominio que representa el 30% del examen CLF-C02, analizado desde la perspectiva de la auditoria operativa y el control de evidencias:
+En esta sesión abordamos el dominio que representa el 30% del examen CLF-C02, analizado desde la perspectiva de la auditoria operativa y el control de evidencias:
 
 1. **Modelo de responsabilidad compartida:**  
    Delimitacion clara entre la seguridad **de** la nube (infraestructura fisica, hipervisores y centros de datos que gestiona AWS) y la seguridad **en** la nube (cifrado de datos, gestion de identidades, configuracion de firewalls y parches del sistema operativo que corresponden al usuario).
-2. **Gestion de identidades y politicas de menor privilegio:**  
-   Analizamos por que los roles con permisos comodin (`"Action": "*"`) son el vector mas comun de incidentes. Mostramos la estructura formal de una politica JSON (`Effect`, `Action`, `Resource`, `Condition`).
+2. **Gestion de identidades y políticas de menor privilegio:**  
+   Analizamos por que los roles con permisos comodin (`"Action": "*"`) son el vector mas comun de incidentes. Mostramos la estructura formal de una política JSON (`Effect`, `Action`, `Resource`, `Condition`).
 3. **MFA y cuenta raiz:**  
    Buenas practicas obligatorias para bloquear la cuenta raiz, activar autenticacion multifactores y delegar tareas diarias a identidades IAM especificas.
 4. **Trazabilidad y la gran trampa de CloudTrail:**  
@@ -37,7 +37,7 @@ aws cloudtrail lookup-events \
 
 ---
 
-## 3. Reto practico para obtener tu primera insignia oficial
+## 3. Reto práctico para obtener tu primera insignia oficial
 
 Para obtener tu insignia de Credly vinculada a este modulo:
 
@@ -51,4 +51,4 @@ Para obtener tu insignia de Credly vinculada a este modulo:
 
 ## 4. Leccion clave de auditoria
 
-En una revision de cumplimiento o investigacion forense, **lo que no queda registrado en un registro de eventos formal, no existe**. Nunca asumas que un servicio esta seguro; verifica las politicas activas y audita quien tuvo acceso a que recurso mediante trazas de CloudTrail.
+En una revision de cumplimiento o investigacion forense, **lo que no queda registrado en un registro de eventos formal, no existe**. Nunca asumas que un servicio esta seguro; verifica las políticas activas y audita quien tuvo acceso a que recurso mediante trazas de CloudTrail.

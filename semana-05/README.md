@@ -1,7 +1,7 @@
 # Semana 05: Redes en la nube: Amazon VPC, subredes y acceso seguro con SSM
 
-**Programa:** De cero a cloud — AWS User Group Playa Vicente  
-**Ponente:** Roberto Flores Segundo (Lider AWS UG Playa Vicente)  
+**Programa:** De cero a cloud — [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/)  
+**Ponente:** Roberto Flores Segundo (Líder [AWS UG Playa Vicente](https://www.awsugplayavicente.com/))  
 **Modalidad:** Online en vivo (Discord Live)  
 **Grabacion en YouTube:** [Ver clase completa en YouTube](https://www.youtube.com/watch?v=RcCGLSTSV0U)  
 **Playlist oficial:** [De cero a cloud en YouTube](https://www.youtube.com/watch?v=8kL1HYphkns&list=PLGzDHDkhvPhg)
@@ -20,7 +20,7 @@ En esta clase construimos la topologia de red que sustenta cualquier arquitectur
 3. **El riesgo financiero de los NAT Gateways:**  
    Advertimos que un NAT Gateway administrado tiene un costo base aproximado de $32 USD mensuales aunque no transmita datos. En su lugar, ensenamos a conectar servicios de almacenamiento mediante **VPC Gateway Endpoints** para Amazon S3, los cuales son 100% gratuitos y mantienen el trafico viajando de forma segura dentro de la red interna de AWS.
 4. **Firewalls en dos niveles (Security Groups vs NACLs):**  
-   Demostracion practica de la diferencia entre Security Groups (con estado, aplican a nivel de interfaz de red de la instancia) y Network ACLs (sin estado, aplican a nivel de toda la subred y requieren numeracion secuencial de reglas de entrada y salida).
+   Demostracion práctica de la diferencia entre Security Groups (con estado, aplican a nivel de interfaz de red de la instancia) y Network ACLs (sin estado, aplican a nivel de toda la subred y requieren numeracion secuencial de reglas de entrada y salida).
 5. **Acceso administrativo sin SSH (Puerto 22 cerrado):**  
    Configuracion de endpoints y roles para interactuar con la terminal de instancias en subredes privadas mediante AWS Systems Manager Session Manager.
 
@@ -41,7 +41,7 @@ aws ec2 create-vpc-endpoint \
 
 ## 3. Reto mayor: AWS Cloud Quest (Cloud Practitioner)
 
-A partir de esta sesion se abrio el reto principal para los alumnos:
+A partir de esta sesión se abrio el reto principal para los alumnos:
 
 - **Plataforma:** [AWS Cloud Quest en Skill Builder](https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/UBG3N32DBX)
 - **Objetivo:** Recorrer la ciudad virtual completando misiones practicas de redes, computo y bases de datos.
