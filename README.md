@@ -96,7 +96,7 @@ Consulta el paso a paso técnico en:
 
 ## 6. De estudiante a creador: masterclasses, Space del Bootcamp y Hub de Creadores
 
-Este programa adopta la metodología del **Bootcamp de Creadores de Contenido Tech LATAM 2026** y los aprendizajes prácticos del laboratorio `lab-red-team`:
+Este programa adopta la metodología del **Bootcamp de Creadores de Contenido Tech LATAM 2026** y los aprendizajes prácticos de la serie técnica **El puzzle de AWS**:
 
 - **Conectar > Impresionar:** En la industria, el valor radica en explicar qué construiste, qué error ocurrió en la consola, cómo lo resolviste y cuánto te costó.
 - **Masterclasses oficiales del Bootcamp en YouTube:** Enlaces directos a las 5 clases magistrales (incluyendo la sesión de Cierre y Graduación).

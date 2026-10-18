@@ -1,6 +1,6 @@
 # De aprendiz a constructor: cómo compartir lo aprendido
 
-En el aprendizaje técnico tradicional se acostumbra acumular certificaciones o terminar cursos en silencio. Sin embargo, la experiencia adquirida en el **Bootcamp de Creadores de Contenido Tech LATAM 2026** (AWS Builder Center) y en proyectos prácticos de seguridad como `lab-red-team` demuestra que el verdadero crecimiento profesional ocurre cuando eres capaz de documentar y compartir lo que construyes.
+En el aprendizaje técnico tradicional se acostumbra acumular certificaciones o terminar cursos en silencio. Sin embargo, la experiencia adquirida en el **Bootcamp de Creadores de Contenido Tech LATAM 2026** (AWS Builder Center) y en artículos prácticos de seguridad como la serie **El puzzle de AWS** demuestra que el verdadero crecimiento profesional ocurre cuando eres capaz de documentar y compartir lo que construyes.
 
 ---
 
