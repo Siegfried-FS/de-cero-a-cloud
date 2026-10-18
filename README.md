@@ -96,14 +96,14 @@ Consulta el paso a paso técnico en:
 
 ## 6. De estudiante a creador: masterclasses, Space del Bootcamp y Hub de Creadores
 
-Este programa adopta la metodología del **Bootcamp de Creadores de Contenido Tech LATAM 2026** y los aprendizajes prácticos de la serie técnica **El puzzle de AWS**:
+Este módulo formativo adopta los principios pedagógicos del **Bootcamp de Creadores de Contenido Tech LATAM 2026** para que los estudiantes aprendan a comunicar lo que construyen:
 
-- **Conectar > Impresionar:** En la industria, el valor radica en explicar qué construiste, qué error ocurrió en la consola, cómo lo resolviste y cuánto te costó.
-- **Masterclasses oficiales del Bootcamp en YouTube:** Enlaces directos a las 5 clases magistrales (incluyendo la sesión de Cierre y Graduación).
-- **Hilos de tareas en el Space de Builder Center:** Revisa los posts oficiales donde los organizadores asignaban las consignas semanales.
-- **Hub Comunitario de Creadores:** Sube tus artículos a [creadores.awsugplayavicente.com](https://creadores.awsugplayavicente.com/) para que el AWS User Group Playa Vicente amplifique y visibilice tus publicaciones técnicas en toda la región.
+- **Conectar > Impresionar:** Enseñar desde la realidad práctica: qué problema resolviste, qué error apareció en consola y cómo lo solucionaste.
+- **Clases maestras de AWS Heroes en YouTube:** Consejos sobre oratoria técnica, workshops y storytelling compartidos por Gerardo Castro, Ricardo Ceci, Carlos Cortez, David Victoria, Sheyla Leacock, Rossana Suárez y Carlos Zambrano.
+- **Space del Bootcamp en Builder Center:** Espacio oficial con las convocatorias y consignas prácticas semanales.
+- **Hub Comunitario de Creadores:** Plataforma en [creadores.awsugplayavicente.com](https://creadores.awsugplayavicente.com/) para amplificar y dar alcance a los artículos técnicos de los estudiantes.
 
-Consulta la guía de redacción y enlaces del Bootcamp en:
+Consulta el resumen de aprendizajes y enlaces a las masterclasses en:
 [guias/como-crear-contenido-y-compartir-proyectos.md](guias/como-crear-contenido-y-compartir-proyectos.md).
 
 ---
