@@ -98,12 +98,34 @@ Cada uno de estos roles otorga una **Insignia Digital Oficial individual en Cred
 
 ## 5. Qué son las microcredenciales oficiales de AWS
 
-Las **Microcredenciales de AWS (*AWS Micro-credentials*)** representan un modelo contemporáneo de evaluación práctica enfocado en habilidades técnicas específicas y acotadas, complementando a las certificaciones tradicionales de opción múltiple:
+Las **Microcredenciales de AWS (*AWS Micro-credentials*)** representan el estándar contemporáneo de evaluación práctica de Amazon Web Services enfocado en validar habilidades específicas y aplicables directamente al entorno laboral, complementando a las certificaciones de opción múltiple.
 
-- **Enfoque basado en retos (*Performance-based assessment*):** A diferencia de un examen teórico, para obtener una microcredencial debes resolver un problema real dentro de una consola activa de AWS contra reloj y sin tutoriales guiados.
-- **Evaluación automática de resultados:** Un motor de verificación inspecciona la infraestructura desplegada en tu consola para confirmar que cumple exactamente con los criterios de seguridad, disponibilidad o rendimiento solicitados.
-- **Emisión en Credly:** Cada microcredencial aprobada emite una credencial oficial en Credly que certifica la competencia práctica comprobable ante empleadores y clientes.
-- **Ejemplos en Skill Builder:** Microcredenciales en observabilidad y monitoreo con CloudWatch, despliegue de infraestructura como código o mitigación perimetral.
+Portal oficial del catálogo: [skillbuilder.aws/certification/microcredentials](https://skillbuilder.aws/certification/microcredentials)
+
+### Características del formato de evaluación
+- **Exam Labs prácticos y cronometrados:** Trabajas directamente en una consola real aprovisionada por AWS, sin pistas, sin pausas y contra reloj. Eres tú resolviendo un problema técnico en vivo.
+- **Entorno de vista previa (*preview*) sin riesgo:** Skill Builder ofrece un entorno de práctica gratuito para familiarizarse con la interfaz y el formato tantas veces como desees antes de iniciar el examen formal.
+- **Regla estricta de retoma:** En caso de no aprobar una microcredencial real, la plataforma establece un periodo de espera obligatorio de **25 días** para volver a intentarlo.
+- **Acreditación oficial:** Al aprobar, obtienes una credencial digital verificable emitida en **Credly** y registrada en **CertMetrics**.
+
+### Catálogo oficial de microcredenciales disponibles en español
+
+1. **AWS Protección de identidades de agentes Demostrada (Seguridad / IA Agéntica):**  
+   Fortalecimiento de accesos e identidades para flotas de Amazon Bedrock AgentCore, identidades de carga de trabajo, control de acceso basado en etiquetas (ABAC), autorización JWT con alcance y registros de auditoría de tokens (Duración: 2 h 15 min, nivel intermedio).
+2. **AWS Base de datos para IA agéntica Demostrada (Bases de Datos / IA Agéntica):**  
+   Restauración de la capa de datos de un agente inteligente dañado, configuración de Amazon Aurora PostgreSQL y Amazon DynamoDB para memoria, pgvector y Bedrock Knowledge Bases para recuperación de documentos, servidores Model Context Protocol (MCP) y optimización de consultas SQL (Duración: 2 h 20 min, nivel intermedio).
+3. **AWS Respuesta a incidentes Demostrada (Seguridad):**  
+   Respuesta activa ante un ciberataque de múltiples etapas en un entorno en vivo: contención de la amenaza, erradicación de recursos del atacante y aplicación de medidas de blindaje perimetral (Duración: 1 h 40 min, nivel intermedio).
+4. **AWS Data Lakehouse Demostrado (Análisis de Datos):**  
+   Diagnóstico y corrección de una plataforma lakehouse dañada, solución de problemas en ingesta ETL con AWS Glue, optimización de tablas Apache Iceberg y gobernanza con AWS Lake Formation (Duración: 1 h 50 min, nivel intermedio).
+5. **AWS Data Streaming Demostrado (Análisis en Tiempo Real):**  
+   Diagnóstico de infraestructura de streaming de eventos, procesamiento de flujos en tiempo real, pipelines de entrega de datos, manejo de mensajes inválidos y conversión de esquema (Duración: 2 h 20 min, nivel intermedio).
+6. **AWS Data Visualization Demostrado (Visualización):**  
+   Construcción de capas analíticas para plataformas de streaming, pronósticos impulsados por machine learning, seguridad a nivel de fila y columna, vistas SQL reutilizables y paneles con cálculos de tabla (Duración: 2 h, nivel intermedio).
+7. **AWS Agentic AI Demostrado (IA Agéntica):**  
+   Migración de sistemas y flujos de trabajo hacia Amazon Bedrock AgentCore (Duración: 2 h 10 min, nivel intermedio).
+8. **AWS MLOps Demostrado (Machine Learning):**  
+   Implementación y operación de modelos fundacionales de Amazon SageMaker JumpStart utilizando la consola de administración y Amazon SageMaker Studio (Duración: 2 h 20 min, nivel intermedio).
 
 ---
 
