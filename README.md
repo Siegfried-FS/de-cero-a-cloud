@@ -25,6 +25,7 @@ Este espacio está pensado para estudiantes, desarrolladores y entusiastas que b
 - Comunidad oficial en Meetup: [AWS User Group Playa Vicente](https://www.meetup.com/aws-user-group-playa-vicente/)
 - Portal de Oportunidades y Becas: [awsugplayavicente.com/oportunidades](https://www.awsugplayavicente.com/oportunidades)
 - Hub Comunitario de Creadores: [creadores.awsugplayavicente.com](https://creadores.awsugplayavicente.com/)
+- Space oficial del Bootcamp en Builder Center: [Bootcamp Creadores de Contenido Tech LATAM 2026](https://builder.aws.com/connect/space/584c5ee2-dd3a-35ca-8f0a-bc09bf8dc8da/bootcamp-creadores-de-contenido-tech-latam-2026)
 - Servidor de Discord: [Comunidad en vivo](https://discord.gg/eEWSVS23cW)
 - Canal de avisos en WhatsApp: [Grupo oficial de la comunidad](https://chat.whatsapp.com/JBdSseny4XM65dGBHHDgwS)
 

@@ -53,7 +53,7 @@ Puedes consultar libremente las sesiones oficiales impartidas por AWS Heroes, Co
 
 El bootcamp se desarrolló dentro de su espacio exclusivo en la plataforma comunitaria de AWS:
 
-- **Espacio oficial:** Space *Bootcamp Creadores de Contenido Tech LATAM 2026* en AWS Builder Center.
+- **Espacio oficial:** [Space Bootcamp Creadores de Contenido Tech LATAM 2026](https://builder.aws.com/connect/space/584c5ee2-dd3a-35ca-8f0a-bc09bf8dc8da/bootcamp-creadores-de-contenido-tech-latam-2026) en AWS Builder Center.
 - **Convocatoria y bases del programa:** [Artículo oficial de bienvenida y lineamientos](https://builder.aws.com/content/3Feqqc5fzBPdeh6fcFmVbtPF2sf/bootcamp-gratis-para-creacion-de-contenido-tecnico)
 - **Hilos oficiales donde los organizadores asignaban las tareas:**
   - **Semana 1 (Pitch y Workshop):** [Hilo oficial de consignas Semana 1](https://builder.aws.com/post/3Iq2XFehLftZCuzfNqp2KPSBgVp_p/semana-1-del-bootcamp-gerardo-castro-and-ricardo-ceci) (Consignas: Redactar un pitch técnico en 3 oraciones y diseñar el esquema temático de un workshop práctico de 30 minutos).
