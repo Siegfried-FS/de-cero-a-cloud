@@ -48,3 +48,19 @@ Al cierre de la sesión se abrió un panel de preguntas en vivo sobre el mercado
 - **Ruta de certificaciones (Cloud Practitioner vs. AI Practitioner):** Recomendó iniciar con *Cloud Practitioner* a quienes deseen comprender presupuestos, gobernanza y arquitectura global en la nube, o *AI Practitioner* para quienes se orienten a la integración de modelos y prompts.
 - **La perspectiva de compliance y auditoría:** Roberto complementó explicando que bajo normas internacionales como **ISO/IEC 27001:2022**, las certificaciones oficiales son un requisito formal de evidencia para demostrar la competencia técnica del personal ante auditorías externas y facilitan negociaciones salariales en empresas formales.
 - **Anuncio de calendario:** La clase 4 se reprogramó de miércoles a jueves debido a la participación de la comunidad en el AWS Summit Ciudad de México.
+
+---
+
+## 4. Retos de la semana y laboratorios en AWS Skill Builder
+
+Para practicar bases de datos en entornos oficiales y gratuitos sin tarjeta de crédito:
+
+1. **Laboratorio práctico en consola real (45 min):**  
+   [Introduction to Amazon DynamoDB (Español LATAM)](https://skillbuilder.aws/learn/6DYXN7K7ZQ/introduction-to-amazon-dynamodb-espaol-latam/96JHFR5DA5)  
+   Crea tablas NoSQL, define Partition Keys y Sort Keys, e inserta ítems JSON.
+2. **Curso conceptual guiado (15 min):**  
+   [Amazon Aurora MySQL Basics (Español LATAM)](https://skillbuilder.aws/learn/FPD37ZDEBU/amazon-aurora-mysql--basics-espaol-latam/ZSG5RCJQ5Z)  
+   Comprende la separación entre la capa de cómputo y el almacenamiento distribuido en 6 réplicas.
+3. **Curso introductorio (20 min):**  
+   [Amazon RDS Service Primer (Español LATAM)](https://skillbuilder.aws/learn/5AS1GHZ5YF/amazon-rds-service-primer-espaol-latam/S6QGSETSEF)  
+   Manejo de motores relacionales (PostgreSQL, MySQL, MariaDB) con copias de seguridad automáticas y Multi-AZ.

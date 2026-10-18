@@ -52,6 +52,25 @@ A continuación se presenta el registro de cada sesión, con el enlace directo a
 | 11 | Cómo entrar a trabajar a un AWS Partner sin saber de AWS | [Roberto Flores Segundo](https://www.linkedin.com/in/roberto-flores-b1a012322/) (Líder [AWS UG Playa Vicente](https://www.awsugplayavicente.com/)) | [Ver video](https://www.youtube.com/watch?v=ty-iHdY94_U) | [semana-11/README.md](semana-11/README.md) |
 | 12 | Clausura oficial y demo day de proyectos de alumnos | [Mariana Ponce](https://www.linkedin.com/in/mariana-ponce-sep%C3%BAlveda-88744272/), [Sandra Elizabeth Olier](https://www.linkedin.com/in/sandra-olier), [Gustavo Herrera](https://www.linkedin.com/in/tavo10/) | Próximamente en YouTube | [semana-12/README.md](semana-12/README.md) |
 
+### Retos prácticos oficiales y enlaces a laboratorios ($0.00 USD)
+
+Cualquier persona de la comunidad puede realizar los mismos laboratorios que se asignaron durante el programa en vivo. La mayoría se ejecutan en consolas reales temporales provistas por AWS sin necesidad de tarjeta de crédito:
+
+| Semana | Reto / Tarea oficial | Plataforma | Tipo de entorno | Enlace directo al reto |
+|:---:|---|---|---|:---:|
+| 01 | Lab: Creación y hosting estático en Amazon S3 | AWS Skill Builder | Consola real sandbox ($0 USD) | [Abrir Lab S3](https://skillbuilder.aws/learn/R54NZHEX5K/introduction-to-amazon-simple-storage-service-s3-espaol-latam/NKN6UQ8A5Q) |
+| 02 | Lab: Amazon EC2 y cómputo seguro con roles IAM | AWS Educate / Skill Builder | Consola guiada / Sandbox | [Abrir AWS Educate](https://www.awseducate.com/) |
+| 03 | Lab: Amazon DynamoDB NoSQL, Aurora y RDS | AWS Skill Builder | Consola real sandbox ($0 USD) | [Abrir Lab DynamoDB](https://skillbuilder.aws/learn/6DYXN7K7ZQ/introduction-to-amazon-dynamodb-espaol-latam/96JHFR5DA5) |
+| 04 | Labs: IAM y Auditoría con CloudTrail + Insignia | AWS Skill Builder / Educate | Sandbox real + Badge Credly | [Lab IAM](https://skillbuilder.aws/learn/XFPX3M7HAQ/introduction-to-aws-identity-and-access-management-iam-espaol-latam/GH1QMNRZBQ) y [Lab CloudTrail](https://skillbuilder.aws/learn/3M2AHK66HV/performing-a-basic-audit-of-your-aws-environment-espaol-latam/AW5VQJCEFM) |
+| 05 | Lab: VPC y El Gran Reto AWS Cloud Quest | AWS Skill Builder | Sandbox 3D + Badge Credly | [Lab VPC](https://skillbuilder.aws/learn/8X4G4J7XMQ/introduction-to-amazon-virtual-private-cloud-vpc-espaol-latam/NQ5VZTCQ5M) y [Jugar Cloud Quest](https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/UBG3N32DBX) |
+| 06 | Reto: Arquitecturas serverless desacopladas | AWS Console / Free Tier | Capa gratuita ($0 USD) | [Ver bitácora técnica](semana-06/README.md) |
+| 07 | Reto: Despliegue asistido con Amplify Gen 2 | Kiro IDE / CLI | Sandbox local interactivo | [Ver bitácora técnica](semana-07/README.md) |
+| 08 | Reto: Aplicación interactiva con PartyRock | PartyRock by AWS | Web App gratuita (sin tarjeta) | [Abrir PartyRock](https://partyrock.aws/) |
+| 09 | Reto: Perfil en AWS Builder Center y RAG | AWS Builder Center | Comunidad oficial | [Abrir Builder Center](https://builder.aws.com/) |
+| 10 | Reto: Simulación de clientes (AWS SimuLearn) | AWS Skill Builder | 12 Labs con IA + Badge Credly | [Abrir AWS SimuLearn](https://skillbuilder.aws/learning-plan/EKHCUEWUUC/aws-simulearn-cloud-practitioner-espaol-latinoamrica/14SH7JS2DU) |
+| 11 | Reto: CV estilo Harvard y publicación técnica | AWS Builder Center / GitHub | Documentación y marca | [Ver guía de creadores](guias/como-crear-contenido-y-compartir-proyectos.md) |
+| 12 | Reto Final: Proyecto propio y Demo Day | GitHub / Builder Center | Arquitectura documentada | [Ver proyectos del Demo Day](semana-12/README.md) |
+
 ---
 
 ## 3. Ruta de insignias oficiales, microcredenciales y Skill Builder Pro

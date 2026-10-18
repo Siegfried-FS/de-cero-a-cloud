@@ -44,7 +44,12 @@ Roberto desglosó los servicios esenciales que componen la arquitectura de segur
 
 ## 4. Reto de la semana y laboratorio práctico
 
-1. **Laboratorio de auditoría con AWS CloudTrail:** Inspección de eventos de API y almacenamiento seguro de logs en Amazon S3.
-2. **Laboratorio de IAM:** Creación estructurada de grupos, usuarios con mínimo privilegio y asignación de políticas JSON restringidas.
-3. **Insignia oficial en AWS Educate:** Ruta de aprendizaje en fundamentos de ciberseguridad para añadir al perfil digital de Credly.
+1. **Laboratorio práctico de IAM (AWS Skill Builder - 45 min):**  
+   [Introduction to AWS Identity and Access Management (IAM) - Español LATAM](https://skillbuilder.aws/learn/XFPX3M7HAQ/introduction-to-aws-identity-and-access-management-iam-espaol-latam/GH1QMNRZBQ)  
+   Creación estructurada de grupos, usuarios con mínimo privilegio y asignación de políticas JSON restringidas en consola real sandbox.
+2. **Laboratorio de auditoría con CloudTrail (AWS Skill Builder - 1 hora):**  
+   [Performing a Basic Audit of your AWS Environment - Español LATAM](https://skillbuilder.aws/learn/3M2AHK66HV/performing-a-basic-audit-of-your-aws-environment-espaol-latam/AW5VQJCEFM)  
+   Inspección de eventos de API, trazabilidad de llamadas y almacenamiento seguro de logs en Amazon S3.
+3. **Insignia Digital Oficial en Credly (AWS Educate):**  
+   Ingresa a [AWS Educate](https://www.awseducate.com/), busca el curso *Getting Started with Security (Spanish LATAM)* (Código: `EDSECUv1ES-LA`) y aprueba la evaluación final con ≥70% para reclamar tu insignia oficial en Credly.
 4. **Frase de cierre:** *"La seguridad en la nube no es un freno para la velocidad, son los frenos de un auto de carreras: están diseñados para permitirte ir más rápido con total confianza"*.

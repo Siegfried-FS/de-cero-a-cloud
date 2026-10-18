@@ -55,3 +55,14 @@ Al cierre de la clase, Roberto mostró cómo utilizar herramientas modernas de d
 - **Demostración de Kiro IDE:** Mostró el flujo de trabajo estructurado de Kiro en terminal y escritorio: generación de especificación de requerimientos, desglose de tareas técnicas y ejecución de código asistido.
 - **Estrategia para financiar Kiro Pro:** Explicó cómo aplicar cupones de eventos comunitarios ($25 USD) directamente en el panel de facturación de AWS para activar la suscripción mensual de Kiro Pro ($20 USD) y conservar $5 USD para laboratorios adicionales sin ingresar tarjetas de crédito personales.
 - **Kahoot en vivo con premios:** Se realizó una dinámica interactiva de preguntas y respuestas sobre las primeras 5 semanas, donde el User Group premió a los ganadores con créditos oficiales de AWS.
+
+---
+
+## 5. El gran reto de la semana y laboratorios en AWS Skill Builder
+
+1. **Laboratorio guiado de redes (45 min):**  
+   [Introduction to Amazon Virtual Private Cloud (VPC) - Español LATAM](https://skillbuilder.aws/learn/8X4G4J7XMQ/introduction-to-amazon-virtual-private-cloud-vpc-espaol-latam/NQ5VZTCQ5M)  
+   Crea tu primera VPC personalizada, subredes públicas y privadas, tablas de enrutamiento y conecta una instancia a Internet mediante un Internet Gateway.
+2. **El Gran Reto: AWS Cloud Quest (Cloud Practitioner) con Insignia Oficial Credly:**  
+   [AWS Cloud Quest: Cloud Practitioner en AWS Skill Builder](https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/UBG3N32DBX)  
+   Videojuego de rol 3D oficial de AWS donde resuelves problemas reales en ciudades virtuales dentro de consolas sandbox ($0.00 USD). Al completar todas las misiones desbloqueas tu insignia digital verificable en Credly.

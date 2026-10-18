@@ -42,6 +42,9 @@ En la consola dividida en tiempo real, Roberto desplegó una arquitectura intera
 
 ## 4. Reto de la semana y consejos profesionales
 
-1. **Laboratorio en AWS Skill Builder:** Completar el módulo práctico guiado sobre cómputo en Amazon EC2.
-2. **Cómo exportar tu evidencia oficial:** Roberto enseñó a navegar a la pestaña de **Logros / Historial** en Skill Builder para descargar el certificado oficial en PDF y publicarlo en LinkedIn.
-3. **Consejo para entrevistas laborales:** *"Documentar todo lo que construyes te salva en una entrevista técnica. Cuando el reclutador apenas tiene 5 minutos para revisar quién eres, mostrar un repositorio documentado paso a paso demuestra curiosidad real y disciplina técnica"*.
+1. **Laboratorio en AWS Skill Builder / Educate:**
+   - Opción Skill Builder: Completar el módulo de fundamentos de cómputo en [AWS Skill Builder](https://skillbuilder.aws) (buscar *Amazon EC2 Basics* o *Getting Started with Amazon EC2*).
+   - Opción con Insignia en Credly: Curso práctico *Getting Started with Compute* en [AWS Educate](https://www.awseducate.com/) (gratuito, sin tarjeta de crédito).
+2. **Cómo exportar tu evidencia oficial:** Navegar a la pestaña de **Logros / Historial** en Skill Builder o Credly para descargar el certificado oficial en PDF y compartirlo.
+3. **Reto práctico en consola (Track Avanzado):** Desplegar una instancia EC2 `t2.micro` con User Data, asociarle un rol IAM para escribir en S3, verificar la carga de archivos, y luego desasociar el rol para comprobar en vivo la pérdida de acceso por principio de privilegio mínimo.
+4. **Consejo para entrevistas laborales:** *"Documentar todo lo que construyes te salva en una entrevista técnica. Cuando el reclutador apenas tiene 5 minutos para revisar quién eres, mostrar un repositorio documentado paso a paso demuestra curiosidad real y disciplina técnica"*.

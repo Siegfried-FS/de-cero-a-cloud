@@ -46,3 +46,12 @@ Roberto enfatizó a los alumnos que tener proyectos privados guardados en la com
 - **Explicar en público acelera tu carrera:** Compartir bitácoras en GitHub, escribir artículos en AWS Builder Center y participar en Meetups te posiciona ante reclutadores y líderes técnicos sin necesidad de enviar cientos de currículums en frío.
 - **Pertenencia al User Group:** Ante la duda de un estudiante sobre si ya podían considerarse parte del [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/), Roberto respondió: *"Todos ustedes son parte activa de la comunidad desde el primer día que se inscribieron y se comprometieron a aprender"*.
 - **Preparación para la clausura:** Convocatoria abierta para que los estudiantes del programa presenten sus arquitecturas propias en el Demo Day de la Semana 12.
+
+---
+
+## 4. Reto de la semana: Empleabilidad y marca profesional
+
+1. **Currículum Vitae de 1 página (Formato Harvard):**  
+   Estructurar tu CV en formato limpio de una sola página, eliminando barras de porcentaje o habilidades genéricas, y destacando problemas reales resueltos con AWS (S3, EC2, IAM, DynamoDB, VPC).
+2. **Tu primer artículo técnico en AWS Builder Center:**  
+   Ingresa a [AWS Builder Center](https://builder.aws.com/) y redacta una bitácora técnica de 3 minutos explicando qué reto resolviste durante el programa, qué error apareció en consola y cómo lo solucionaste. Consulta la guía en [guias/como-crear-contenido-y-compartir-proyectos.md](../guias/como-crear-contenido-y-compartir-proyectos.md).

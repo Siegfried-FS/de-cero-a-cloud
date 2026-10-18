@@ -71,6 +71,7 @@ aws s3 sync ./sitio-web s3://mi-sitio-estático-augpv
 
 Para eliminar el miedo a cargos accidentales en tarjetas de crédito, la primera tarea oficial no requirió el uso de cuentas bancarias personales:
 
-1. **Laboratorio guiado oficial:** Realizar el curso práctico *"Introducción a Amazon Simple Storage Service (Amazon S3)"* dentro de la plataforma gratuita **AWS Skill Builder** (disponible en español).
+1. **Laboratorio guiado oficial:** Realizar el curso práctico con consola real [Introduction to Amazon Simple Storage Service (Amazon S3) en AWS Skill Builder](https://skillbuilder.aws/learn/R54NZHEX5K/introduction-to-amazon-simple-storage-service-s3-espaol-latam/NKN6UQ8A5Q) (100% gratuito, en español y sin tarjeta de crédito).
 2. **Objetivos del laboratorio:** Creación de bucket, subida de objetos, gestión de permisos, aplicación de políticas JSON y control de versiones.
 3. **Cómo validar el entorno seguro:** Se mostró en vivo cómo comprobar que la consola abierta pertenece a un usuario temporal aprovisionado por AWS (`aws-student-lab-user...`) y no a la cuenta propia, garantizando un entorno 100% aislado con costo $0.00 USD.
+4. **Reto avanzado opcional:** Clonar tu propio sitio web y sincronizarlo con AWS CLI usando `aws s3 sync` o mediante un pipeline de GitHub Actions como el visto en clase.

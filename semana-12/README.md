@@ -32,3 +32,16 @@ El Demo Day represento la culminacion del programa de 12 semanas, donde tres est
 El objetivo de **De cero a cloud** nunca fue acumular horas de teoria, sino demostrar que con perseverancia, comunidad y acceso guiado a herramientas modernas de nube, cualquier persona puede pasar de tener cero experiencia a defender publicamente una arquitectura tecnologica propia.
 
 Invitamos a todos los estudiantes a continuar compartiendo sus avances, escribiendo en AWS Builder Center y participando activamente en los encuentros del [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/).
+
+---
+
+## 3. Reto final de graduación: Tu arquitectura en la nube
+
+1. **Elaboración de tu proyecto final:**  
+   Integra al menos 3 servicios de AWS vistos durante las 12 semanas (por ejemplo: S3 + Lambda + DynamoDB o PartyRock + Bedrock + Amplify).
+2. **Documentación pública:**  
+   Crea un repositorio público en GitHub con tu `README.md` explicando:
+   - Qué problema resuelve tu aplicación.
+   - Diagrama de arquitectura.
+   - Decisiones técnicas y cómo mantuviste los costos en $0.00 USD.
+   - Enlace a tu artículo técnico en [AWS Builder Center](https://builder.aws.com/).

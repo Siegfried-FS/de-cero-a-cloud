@@ -46,3 +46,12 @@ En la pantalla en vivo, Shel construyó paso a paso la aplicación *"Adivinador 
   * `File Upload`: Demostró cómo adjuntar una lista externa de Pokémons oficiales para evitar **alucinaciones** (evitando que el modelo invente criaturas que no existen).
 - **El asistente Whiskers:** Uso de la herramienta interna de PartyRock para auditar la calidad y claridad de los prompts en cada widget antes de publicar.
 - **Publicación y compartición comunitaria:** Cómo generar el enlace público de la aplicación con un solo clic para que cualquier compañero de la comunidad la pruebe e interactúe en vivo.
+
+---
+
+## 4. Reto de la semana y herramientas prácticas sin costo
+
+1. **Construye tu aplicación en PartyRock (100% gratuito):**  
+   Ingresa a [PartyRock by AWS](https://partyrock.aws/) con tu AWS Builder ID (sin tarjeta de crédito). Diseña una aplicación interactiva aplicando la estructura de 4 capas de Prompt Engineering (Rol, Contexto, Tarea, Restricciones) y publica tu enlace público.
+2. **Ruta complementaria con Insignia Credly (Opcional):**  
+   Completa la ruta de [AWS Cloud Quest: Generative AI en AWS Skill Builder](https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/UBG3N32DBX) para obtener tu insignia digital oficial de IA generativa.

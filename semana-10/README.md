@@ -53,3 +53,13 @@ Durante la sesión, **Sandra Elizabeth Olier** (estudiante del programa, 55 año
 Roberto cerró la sesión conectando el testimonio de Misael y Sandra con su propia trayectoria como carpintero:
 - *"La vida no es lineal y muchas veces caminamos a ciegas, pero lo importante es seguir adelante"*.
 - Relató cómo en sus inicios intentaba aprender tomando cursos nivel 100 y 300 desordenados al mismo tiempo por la presión laboral, sufriendo rechazos en múltiples convocatorias de becas antes de ser aceptado, y enfatizó que *De cero a cloud* fue diseñado justamente para ahorrarles ese camino solitario a los nuevos estudiantes.
+
+---
+
+## 5. Reto de la semana: Simulación de clientes e insignia en Credly
+
+Para practicar resolución de problemas frente a clientes reales y obtener una insignia verificable:
+
+1. **AWS SimuLearn: Cloud Practitioner (Español Latinoamérica):**  
+   [AWS SimuLearn en AWS Skill Builder](https://skillbuilder.aws/learning-plan/EKHCUEWUUC/aws-simulearn-cloud-practitioner-espaol-latinoamrica/14SH7JS2DU)  
+   Ruta práctica de 12 horas con 12 escenarios de clientes simulados por inteligencia artificial y laboratorios guiados. Al completarlo obtienes tu Insignia Digital Oficial de Credly ("AWS SimuLearn: Cloud Practitioner").

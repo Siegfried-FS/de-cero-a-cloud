@@ -56,3 +56,12 @@ Daniel conectó cuatro servicios esenciales de AWS en una cadena de procesamient
 
 - **Bedrock jamás se ejecuta con la cuenta Root:** Daniel enfatizó que Amazon Bedrock bloquea intencionalmente ciertas operaciones si se intenta trabajar con credenciales Root. Es mandatorio crear un usuario o rol IAM con las políticas específicas para orquestar S3, Bedrock y OpenSearch.
 - **Trazabilidad obligatoria para villanos y empresas:** Se configuró un segundo bucket (`lutorbot-knowledge-base-logs`) para almacenar los logs de llamadas y consultas, demostrando que ningún sistema de IA debe salir a producción sin registro de auditoría.
+
+---
+
+## 4. Reto de la semana y actividades prácticas
+
+1. **Perfil profesional en AWS Builder Center:**  
+   Ingresa a [AWS Builder Center](https://builder.aws.com/) con tu AWS Builder ID, configura tu perfil con tu bio y redes sociales técnicas para conectar con la comunidad global de constructores.
+2. **Explora el proyecto LuthorBot:**  
+   Revisa los conceptos de arquitectura RAG y sigue los proyectos del ponente [Daniel Paredes en LinkedIn](https://www.linkedin.com/in/wallsified/) y en [GitHub](https://github.com/wallsified).
