@@ -27,7 +27,8 @@ Este espacio está pensado para estudiantes, desarrolladores y entusiastas que b
 - Hub Comunitario de Creadores: [creadores.awsugplayavicente.com](https://creadores.awsugplayavicente.com/)
 - Space oficial del Bootcamp en Builder Center: [Bootcamp Creadores de Contenido Tech LATAM 2026](https://builder.aws.com/connect/space/584c5ee2-dd3a-35ca-8f0a-bc09bf8dc8da/bootcamp-creadores-de-contenido-tech-latam-2026)
 - Servidor de Discord: [Comunidad en vivo](https://discord.gg/eEWSVS23cW)
-- Canal de avisos en WhatsApp: [Grupo oficial de la comunidad](https://chat.whatsapp.com/JBdSseny4XM65dGBHHDgwS)
+- Grupo de WhatsApp: [Comunidad oficial en WhatsApp](https://chat.whatsapp.com/KXQYW7V00q12cSoeijob4h)
+- Canal de Telegram: [AWS User Group Playa Vicente en Telegram](https://t.me/AUGPlayaVicente)
 
 ---
 
@@ -127,7 +128,22 @@ aws ec2 describe-instances \
 
 ## 8. Comunidad y canales de contacto
 
-- **Organizador:** [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/) (Veracruz, México)
-- **Líder de comunidad:** Roberto Flores Segundo (Siegfried)
+### Organizador y comunidad
+- **Comunidad organizadora:** [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/) (Veracruz, México)
+- **Sitio web oficial:** [awsugplayavicente.com](https://www.awsugplayavicente.com/)
+- **Portal de oportunidades y becas:** [awsugplayavicente.com/oportunidades](https://www.awsugplayavicente.com/oportunidades)
+- **Hub de creadores:** [creadores.awsugplayavicente.com](https://creadores.awsugplayavicente.com/)
+- **Grupo de WhatsApp:** [Comunidad oficial en WhatsApp](https://chat.whatsapp.com/KXQYW7V00q12cSoeijob4h)
+- **Canal de Telegram:** [@AUGPlayaVicente](https://t.me/AUGPlayaVicente)
+- **Comunidad en Meetup:** [AWS User Group Playa Vicente](https://www.meetup.com/aws-user-group-playa-vicente/)
+- **Servidor de Discord:** [Comunidad en vivo](https://discord.gg/eEWSVS23cW)
+
+### Líder de comunidad y contacto técnico
+- **Nombre:** Roberto Flores Segundo (Siegfried)
+- **Rol:** Líder del [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/)
 - **Credenciales oficiales:** AWS Certified Cloud Practitioner y Lead Auditor ISO 27001:2022
-- **Sitio web:** [awsugplayavicente.com](https://www.awsugplayavicente.com/)
+- **LinkedIn:** [Roberto Flores Segundo](https://www.linkedin.com/in/roberto-flores-b1a012322/)
+- **GitHub:** [@Siegfried-FS](https://github.com/Siegfried-FS)
+- **Sitio web personal:** [siegfried-fs.com](https://siegfried-fs.com)
+- **Correo electrónico:** [roberto.flores@siegfried-fs.com](mailto:roberto.flores@siegfried-fs.com)
+
