@@ -2,7 +2,7 @@
 
 Aprender computación en la nube no termina al completar un laboratorio o aprobar un examen. El verdadero crecimiento ocurre cuando eres capaz de explicar lo que construiste y compartir tus notas con otros estudiantes.
 
-Esta guía resume las lecciones clave impartidas por los **AWS Heroes** y mentores durante el **Bootcamp de Creadores de Contenido Tech LATAM 2026** (AWS Builder Center), junto con los enlaces a sus clases maestras para que puedas consultarlas libremente.
+Esta guía resume las lecciones clave impartidas por los **AWS Heroes** y mentores durante el **Bootcamp de Creadores de Contenido Tech LATAM 2026** (AWS Builder Center), junto con los enlaces directos a sus clases maestras en YouTube y a los hilos oficiales de consignas en la plataforma.
 
 ---
 
@@ -19,11 +19,12 @@ En la práctica técnica:
 
 ## 2. Lecciones clave de las clases maestras (AWS Heroes y Mentores)
 
-A continuación se resumen las ideas centrales de cada sesión del bootcamp con su grabación oficial en YouTube:
+A continuación se resumen las ideas centrales de cada sesión del bootcamp con su grabación oficial en YouTube y el hilo oficial de consignas en Builder Center:
 
 ### Semana 1: El primer paso y estructura técnica
 - **Mentores:** Gerardo Castro (Security Hero) y Ricardo Ceci (AI Hero)
-- **Grabación:** [Ver en YouTube (Semana 1)](https://www.youtube.com/live/3coUUhi67zQ)
+- **Grabación en YouTube:** [Ver clase en YouTube](https://www.youtube.com/live/3coUUhi67zQ)
+- **Hilo oficial en Builder Center:** [Consignas Semana 1 (Gerardo Castro y Ricardo Ceci)](https://builder.aws.com/post/3Iq2XFehLftZCuzfNqp2KPSBgVp_p/semana-1-del-bootcamp-gerardo-castro-and-ricardo-ceci)
 - **Aprendizajes clave:**
   - Cómo vencer la parálisis por análisis y publicar tu primera pieza técnica.
   - La estructura de un workshop práctico de 30 minutos: 5 minutos de problema, 20 minutos de laboratorio guiado y 5 minutos de conclusiones con costos.
@@ -33,7 +34,8 @@ A continuación se resumen las ideas centrales de cada sesión del bootcamp con 
 
 ### Semana 2: Construir en público y storytelling técnico
 - **Mentores:** Carlos Cortez (Community Hero) y David Victoria (Community Hero)
-- **Grabación:** [Ver en YouTube (Semana 2)](https://www.youtube.com/watch?v=_yuLfWfMrDY)
+- **Grabación en YouTube:** [Ver clase en YouTube](https://www.youtube.com/watch?v=_yuLfWfMrDY)
+- **Hilo oficial en Builder Center:** [Consignas Semana 2 (Carlos Cortez y David Victoria)](https://builder.aws.com/post/3JIBNRJVXIku2xzo2yCoq3kjgKy_p/semana-2-del-bootcamp-carlos-cortez-and-david-victoria)
 - **Aprendizajes clave:**
   - *Build in Public* (Construir en público): documentar el proceso mientras estás aprendiendo, no esperar a tener el proyecto terminado.
   - Cómo usar repositorios de código abierto para que otros puedan replicar tu solución paso a paso.
@@ -43,7 +45,8 @@ A continuación se resumen las ideas centrales de cada sesión del bootcamp con 
 
 ### Semana 3: Voz propia y oratoria técnica
 - **Mentores:** Sheyla Leacock (Security Hero) y Rossana "Roxs" Suárez (Container Hero)
-- **Grabación:** [Ver en YouTube (Semana 3)](https://www.youtube.com/live/gGI1Pi6cyUc)
+- **Grabación en YouTube:** [Ver clase en YouTube](https://www.youtube.com/live/gGI1Pi6cyUc)
+- **Hilo oficial en Builder Center:** [Consignas Semana 3 (Sheyla Leacock y Rossana Suárez)](https://builder.aws.com/post/3JTc124MUpmFSNR5fMz96KacgYG_p/semana-3-del-bootcamp-sheyla-leacock-and-roxs)
 - **Aprendizajes clave:**
   - Superar el miedo a la cámara y el síndrome del impostor: nadie nace sabiendo hablar en público.
   - La importancia de hablar desde tu propio contexto y tus propias palabras, sin imitar estilos ajenos.
@@ -53,7 +56,8 @@ A continuación se resumen las ideas centrales de cada sesión del bootcamp con 
 
 ### Semana 4: Oportunidades en la industria y networking
 - **Mentor:** Carlos Zambrano (Data Hero)
-- **Grabación:** [Ver en YouTube (Semana 4)](https://www.youtube.com/live/Om-JAMW1Goo)
+- **Grabación en YouTube:** [Ver clase en YouTube](https://www.youtube.com/live/Om-JAMW1Goo)
+- **Hilo oficial en Builder Center:** [Consignas Semana 4 (Carlos Zambrano)](https://builder.aws.com/post/3K144JRZiWiWOwdZXsLubSBNEsZ_p/semana-4-del-bootcamp-carlos-zambrano)
 - **Aprendizajes clave:**
   - Cómo compartir contenido técnico en plataformas como AWS Builder Center y LinkedIn actúa como un portafolio vivo que valida tus habilidades ante reclutadores técnicos.
   - La diferencia entre acumular certificados en papel y demostrar que sabes resolver problemas reales en la nube.
@@ -63,7 +67,7 @@ A continuación se resumen las ideas centrales de cada sesión del bootcamp con 
 
 ### Semana 5: Cierre, graduación y continuidad comunitaria
 - **Mentores:** Matias Kreder, Corey Strausman y mentores invitados
-- **Grabación:** [Ver en YouTube (Semana 5)](https://www.youtube.com/live/eSNqSv_MqZU?t=5s)
+- **Grabación en YouTube:** [Ver clase en YouTube](https://www.youtube.com/live/eSNqSv_MqZU?t=5s)
 - **Aprendizajes clave:**
   - La constancia como hábito: es más valioso publicar una nota de laboratorio bien cuidada cada mes que intentar abarcar demasiado y abandonar.
   - El valor de retribuir a la comunidad compartiendo lo aprendido con quienes apenas comienzan su camino en la nube.
@@ -72,13 +76,15 @@ A continuación se resumen las ideas centrales de cada sesión del bootcamp con 
 
 ## 3. Espacio oficial del Bootcamp en AWS Builder Center
 
-Si deseas consultar las publicaciones y dinámicas que se llevaron a cabo durante el programa:
+Si deseas consultar el espacio general y las dinámicas completas del programa:
 
 - **Space oficial:** [Bootcamp Creadores de Contenido Tech LATAM 2026](https://builder.aws.com/connect/space/584c5ee2-dd3a-35ca-8f0a-bc09bf8dc8da/bootcamp-creadores-de-contenido-tech-latam-2026) en AWS Builder Center.
 - **Bases y convocatoria original:** [Artículo oficial del Bootcamp](https://builder.aws.com/content/3Feqqc5fzBPdeh6fcFmVbtPF2sf/bootcamp-gratis-para-creacion-de-contenido-tecnico)
-- **Hilos con las consignas semanales:**
-  - [Consignas Semana 1 (Pitch y Workshop)](https://builder.aws.com/post/3Iq2XFehLftZCuzfNqp2KPSBgVp_p/semana-1-del-bootcamp-gerardo-castro-and-ricardo-ceci)
-  - [Consignas Semana 2 (Blog y Charla)](https://builder.aws.com/post/3JIBNRJVXIku2xzo2yCoq3kjgKy_p/semana-2-del-bootcamp-carlos-cortez-and-david-victoria)
+- **Directorio de hilos semanales:**
+  1. [Semana 1: Pitch y Workshop (Gerardo Castro y Ricardo Ceci)](https://builder.aws.com/post/3Iq2XFehLftZCuzfNqp2KPSBgVp_p/semana-1-del-bootcamp-gerardo-castro-and-ricardo-ceci)
+  2. [Semana 2: Blog y Charla (Carlos Cortez y David Victoria)](https://builder.aws.com/post/3JIBNRJVXIku2xzo2yCoq3kjgKy_p/semana-2-del-bootcamp-carlos-cortez-and-david-victoria)
+  3. [Semana 3: Proyecto Técnico y Reto 24 Horas (Sheyla Leacock y Rossana Suárez)](https://builder.aws.com/post/3JTc124MUpmFSNR5fMz96KacgYG_p/semana-3-del-bootcamp-sheyla-leacock-and-roxs)
+  4. [Semana 4: Impacto Comunitario y Plan Q4 (Carlos Zambrano)](https://builder.aws.com/post/3K144JRZiWiWOwdZXsLubSBNEsZ_p/semana-4-del-bootcamp-carlos-zambrano)
 
 ---
 
