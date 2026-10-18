@@ -10,8 +10,8 @@ Para estudiantes y nuevos profesionales en Latinoamérica, participar activament
 
 1. **Créditos de nube (AWS Student Rewards):**  
    A través de programas como AWS Educate y dinámicas estudiantiles en Builder Center, los alumnos pueden acceder a créditos promocionales para correr laboratorios sin costo y probar arquitecturas personales.
-2. **Acceso a herramientas de desarrollo con IA:**  
-   Uso guiado de herramientas de asistencia como Amazon Q Developer directamente en entornos de código.
+2. **Entornos agénticos y desarrollo asistido por IA (Kiro y PartyRock):**  
+   Acceso a entornos modernos guiados por especificaciones (*Spec-Driven Development*) como Kiro (Desktop, CLI y Web) y prototipado sin código con Amazon Bedrock PartyRock, donde los estudiantes diseñan arquitecturas y construyen código colaborando con agentes inteligentes en lugar de depender de autocompletadores tradicionales.
 3. **Visibilidad ante la comunidad global:**  
    Los artículos técnicos publicados son leídos por arquitectos, líderes de grupos de usuarios (User Groups) y especialistas de toda la región.
 4. **Participación en retos comunitarios:**  
