@@ -1,20 +1,20 @@
-# Guia de insignias oficiales y plataformas de aprendizaje gratuito
+# Guia de insignias oficiales, microcredenciales y plataformas de aprendizaje
 
-El ecosistema de formacion de Amazon Web Services cuenta con dos plataformas oficiales y gratuitas que permiten a los estudiantes adquirir experiencia practica y validar sus competencias mediante insignias digitales emitidas por plataformas de certificacion reconocidas en la industria como Credly.
+El ecosistema de formacion de Amazon Web Services cuenta con plataformas oficiales que permiten a los estudiantes adquirir experiencia practica y validar sus competencias mediante insignias digitales emitidas por plataformas de certificacion reconocidas en la industria como Credly.
 
 ---
 
 ## 1. Que es cada plataforma y como se diferencian
 
-Para evitar confusiones habituales entre los estudiantes, es importante distinguir las dos vias principales de formacion de AWS:
+Para evitar confusiones habituales entre los estudiantes, es importante distinguir las vias principales de formacion de AWS:
 
-| Criterio | AWS Skill Builder | AWS Educate |
-|---|---|---|
-| **Audiencia principal** | Profesionales, desarrolladores y personas preparando certificaciones (CLF, SAA). | Estudiantes desde los 13 anos, principiantes absolutos y educadores. |
-| **Requisito de tarjeta** | No requerida para el nivel gratuito. | Ninguna. 100% libre de tarjeta bancaria. |
-| **Metodologia** | Cursos oficiales, videos tecnicos, laboratorios guiados y simuladores en 3D (Cloud Quest). | Rutas formativas cortas y modulares con consola de practica integrada (*sandbox* temporal). |
-| **Tipo de acreditacion** | Insignias oficiales en Credly tras aprobar evaluaciones o juegos de rol tecnicos. | Insignias digitales de AWS Educate en Credly para cada modulo aprobado. |
-| **Portal oficial** | [skillbuilder.aws](https://skillbuilder.aws/) | [aws.amazon.com/education/awseducate](https://aws.amazon.com/education/awseducate/) |
+| Criterio | AWS Skill Builder (Nivel Gratuito) | AWS Skill Builder (Suscripcion Individual / Pro) | AWS Educate |
+|---|---|---|---|
+| **Audiencia principal** | Profesionales, desarrolladores y personas preparando certificaciones (CLF, SAA). | Builders que buscan laboratorios avanzados, preparacion para examenes y roles especializados. | Estudiantes desde los 13 anos, principiantes absolutos y educadores. |
+| **Requisito de tarjeta** | No requerida. | Requiere suscripcion mensual ($29 USD/mes) o activacion por becas/retos. | Ninguna. 100% libre de tarjeta bancaria. |
+| **Metodologia** | Cursos oficiales, videos tecnicos, laboratorios guiados y simulador 3D (Cloud Practitioner). | Mas de 1,000 laboratorios con consola real, 7 roles de Cloud Quest y retos de certificacion (AWS Jam). | Rutas formativas cortas y modulares con consola de practica integrada (*sandbox* temporal). |
+| **Tipo de acreditacion** | Insignias oficiales en Credly tras aprobar evaluaciones o Cloud Quest básico. | Insignias especializadas en Credly por cada rol avanzado de Cloud Quest y microcredenciales. | Insignias digitales de AWS Educate en Credly para cada modulo aprobado. |
+| **Portal oficial** | [skillbuilder.aws](https://skillbuilder.aws/) | [skillbuilder.aws](https://skillbuilder.aws/) | [aws.amazon.com/education/awseducate](https://aws.amazon.com/education/awseducate/) |
 
 ---
 
@@ -81,7 +81,33 @@ AWS Educate ofrece rutas cortas autodidactas de entre 1 y 3 horas con evaluacion
 
 ---
 
-## 4. Paso a paso para vincular tus cuentas y reclamar tus badges
+## 4. Insignias avanzadas con AWS Skill Builder Pro
+
+Si cuentas con una suscripcion individual a AWS Skill Builder (o la obtuviste a traves de becas como **AWS AI & ML Scholars** o retos comunitarios), se desbloquean los roles tecnicos avanzados de **AWS Cloud Quest**:
+
+1. **Solutions Architect:** Diseno de arquitecturas de alta disponibilidad, balanceo de carga con ALB y bases de datos Multi-AZ.
+2. **Serverless Developer:** Orquestacion de microservicios con AWS Step Functions, API Gateway, DynamoDB y Lambda.
+3. **Security:** Implementacion perimetral con AWS WAF, gestion de incidentes con GuardDuty, cifrado con KMS y auditoria con Security Hub.
+4. **Machine Learning:** Entrenamiento, ajuste y despliegue de modelos en produccion con Amazon SageMaker.
+5. **Data Analytics:** Procesamiento de flujos de datos en tiempo real con Amazon Kinesis, consultas serverless con Amazon Athena y catalogacion con AWS Glue.
+6. **Networking:** Conectividad hibrida, diseno de VPC complejas con Transit Gateway, Direct Connect y reglas avanzadas de enrutamiento.
+
+Cada uno de estos roles otorga una **Insignia Digital Oficial individual en Credly** al completar el 100% de las misiones de la ciudad virtual.
+
+---
+
+## 5. Que son las microcredenciales oficiales de AWS
+
+Las **Microcredenciales de AWS (*AWS Micro-credentials*)** representan un modelo contemporaneo de evaluacion practica enfocado en habilidades tecnicas especificas y acotadas, complementando a las certificaciones tradicionales de opcion multiple:
+
+- **Enfoque basado en retos (*Performance-based assessment*):** A diferencia de un examen teorico, para obtener una microcredencial debes resolver un problema real dentro de una consola activa de AWS contra reloj y sin tutoriales guiados.
+- **Evaluacion automatica de resultados:** Un motor de verificacion inspecciona la infraestructura desplegada en tu consola para confirmar que cumple exactamente con los criterios de seguridad, disponibilidad o rendimiento solicitados.
+- **Emision en Credly:** Cada microcredencial aprobada emite una credencial oficial en Credly que certifica la competencia practica comprobable ante empleadores y clientes.
+- **Ejemplos en Skill Builder:** Microcredenciales en observabilidad y monitoreo con CloudWatch, despliegue de infraestructura como codigo o mitigacion perimetral.
+
+---
+
+## 6. Paso a paso para vincular tus cuentas y reclamar tus badges
 
 Para asegurar que tus insignias se registren correctamente en tu perfil publico de Credly:
 

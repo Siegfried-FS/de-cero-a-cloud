@@ -10,11 +10,12 @@ Este espacio esta pensado para estudiantes, desarrolladores y entusiastas que bu
 
 1. Enlaces oficiales y grabaciones
 2. Calendario y bitacora de las 12 semanas
-3. Ruta de insignias oficiales gratuitas en Credly
-4. Recompensas para estudiantes en AWS Builder Center
-5. De estudiante a creador: comparte lo que construyes
-6. Politica de costos transparentes y laboratorios en $0 USD
-7. Comunidad y canales de contacto
+3. Ruta de insignias oficiales, microcredenciales y Skill Builder Pro
+4. Becas, vouchers de examen y oportunidades oficiales de AWS
+5. Kiro Pro financiado con cupones y arquitectura de seguridad IAM
+6. De estudiante a creador: masterclasses y Hub de Creadores
+7. Politica de costos transparentes y laboratorios en $0 USD
+8. Comunidad y canales de contacto
 
 ---
 
@@ -22,9 +23,10 @@ Este espacio esta pensado para estudiantes, desarrolladores y entusiastas que bu
 
 - Playlist completa en YouTube: [Ver lista de reproduccion oficial](https://www.youtube.com/watch?v=8kL1HYphkns&list=PLGzDHDkhvPhg)
 - Comunidad oficial en Meetup: [AWS User Group Playa Vicente](https://www.meetup.com/aws-user-group-playa-vicente/)
+- Portal de Oportunidades y Becas: [awsugplayavicente.com/oportunidades](https://www.awsugplayavicente.com/oportunidades)
+- Hub Comunitario de Creadores: [creadores.awsugplayavicente.com](https://creadores.awsugplayavicente.com/)
 - Servidor de Discord: [Comunidad en vivo](https://discord.gg/eEWSVS23cW)
 - Canal de avisos en WhatsApp: [Grupo oficial de la comunidad](https://chat.whatsapp.com/JBdSseny4XM65dGBHHDgwS)
-- Espacio en AWS Builder Center: [AWS User Group Playa Vicente](https://builder.aws.com/)
 
 ---
 
@@ -49,53 +51,62 @@ A continuacion se presenta el registro de cada sesion, con el enlace directo al 
 
 ---
 
-## 3. Ruta de insignias oficiales gratuitas en Credly
+## 3. Ruta de insignias oficiales, microcredenciales y Skill Builder Pro
 
-Uno de los pilares de este curso es que cada estudiante pueda certificar sus conocimientos con insignias emitidas por AWS y verificables en plataformas profesionales como Credly y LinkedIn, sin necesidad de ingresar tarjetas de credito.
+Uno de los pilares de este curso es que cada estudiante pueda certificar sus conocimientos mediante insignias emitidas por AWS y verificables en Credly:
 
-Las insignias recomendadas durante el programa son:
+- **Nivel gratuito (Skill Builder y Educate):** Insignias de **AWS Cloud Quest: Cloud Practitioner**, **AWS Cloud Quest: Generative AI**, **AWS SimuLearn** y rutas de AWS Educate.
+- **Suscripcion Individual (Skill Builder Pro):** Desbloqueo de roles tecnicos completos de Cloud Quest (Solutions Architect, Serverless Developer, Security, Machine Learning, Data Analytics, Networking).
+- **Microcredenciales oficiales de AWS (*Micro-credentials*):** Evaluaciones practicas basadas en desempeno (*performance-based*) donde resuelves retos reales dentro de consolas activas de AWS.
 
-1. **AWS Educate / Skill Builder: Introduction to IAM**:
-   Laboratorio guiado de fundamentos de identidades, politicas JSON y minimo privilegio.
-2. **AWS Cloud Quest: Cloud Practitioner**:
-   Juego de rol interactivo en 3D (RPG) donde resuelves asignaciones reales de infraestructura en la consola temporal gratuita de AWS.
-3. **AWS Cloud Quest: Generative AI**:
-   Especialidad enfocada en casos de uso de modelos fundacionales e ingenieria de prompts.
-4. **AWS SimuLearn: Cloud Practitioner**:
-   Simulacion conversacional de toma de decisiones arquitectonicas con clientes de negocio.
-
-Para consultar el tutorial detallado de registro y canje, revisa la guia:
+Para consultar el tutorial detallado de vinculacion con Credly, comparativa de plataformas e insignias visuales:
 [guias/insignias-oficiales-gratuitas.md](guias/insignias-oficiales-gratuitas.md).
 
 ---
 
-## 4. Recompensas para estudiantes en AWS Builder Center
+## 4. Becas, vouchers de examen y oportunidades oficiales de AWS
 
-Si eres estudiante universitario, tecnico o de bachillerato, AWS cuenta con programas de apoyo activo:
+Mecanismos verificados para obtener certificaciones gratuitas y financiar estudios:
 
-- **AWS Student Rewards:** Creditos promocionales para desplegar infraestructura propia y acceso anticipado a herramientas de IA generativa como Amazon Q Developer.
-- **Espacio en AWS Builder Center:** Una plataforma global donde la comunidad tecnica lee y premia los articulos con puntos de reputacion y articulos de coleccion para builders destacados.
-- **Acceso a eventos globales y retos de innovacion:** Como la competencia AWS AIdeas y becas de certificacion oficial.
+- **AWS All Builders Welcome Grant:** Beca de viaje completa (vuelos, hotel y pase de $2,099 USD) para asistir a AWS re:Invent en Las Vegas.
+- **AWS re/Start:** Formacion intensiva gratuita de 12 semanas con vouchers al 100% para AWS Cloud Practitioner y AWS AI Practitioner.
+- **AWS AI & ML Scholars:** 4,500 becas completas de Nanodegrees en Udacity y 3 meses gratis de Skill Builder.
+- **Vouchers en eventos de comunidad y retos de Builder Center:** Como aprovechar Kahoots, Community Days y retos tecnicos para recibir saldo promocional de $25 o $100 USD.
+- **AWS Student Builder Groups (SBG):** Capítulos oficiales de AWS en universidades.
 
-Consulta la guia completa de activacion en:
-[guias/aws-builder-center-y-student-rewards.md](guias/aws-builder-center-y-student-rewards.md).
+Consulta la guia completa de convocatorias en:
+[guias/becas-vouchers-y-oportunidades-aws.md](guias/becas-vouchers-y-oportunidades-aws.md).
 
 ---
 
-## 5. De estudiante a creador: comparte lo que construyes
+## 5. Kiro Pro financiado con cupones y arquitectura de seguridad IAM
 
-Este programa adopta la metodologia del **Bootcamp de Creadores de Contenido Tech LATAM 2026** y los aprendizajes practicos del repositorio `lab-red-team`:
+Aprende a transformar los vouchers de eventos en saldo para financiar el entorno de desarrollo asistido por IA de AWS (**Kiro Desktop, Kiro CLI y Kiro Web**):
 
-- **Conectar > Impresionar:** En la industria y en la comunidad, a nadie le interesa leer un resumen academico copiado de un manual. Lo que genera valor es explicar que construiste, que error te salio en pantalla, como lo solucionaste y cuanto te costo.
-- **Construir en publico:** Cada laboratorio que realices en este curso puede transformarse en un articulo tecnico breve, un hilo explicativo o una propuesta de charla para un grupo de usuarios local.
-- **Documentacion con rigor y honestidad:** Muestra evidencias reales (capturas de terminal, logs en CloudTrail, configuraciones) y censura adecuadamente cualquier identificador o llave sensible.
+- Financia al 100% tu suscripcion de Kiro Pro utilizando los cupones que otorgan en meetups y retos de fin de semana.
+- Implementa una base de seguridad de nivel empresarial con **AWS Organizations** e **IAM Identity Center** bajo el principio de menor privilegio (cero permisos en infraestructura para evitar cobros sorpresa).
+- Estrategia de cuidado del bolsillo para mantenerse en el plan Free permanente de $0 USD o renovar con saldo comunitario.
 
-Revisa la guia editorial para redactar tu primer post tecnico en:
+Consulta el paso a paso tecnico en:
+[guias/kiro-pro-con-vouchers-y-seguridad-iam.md](guias/kiro-pro-con-vouchers-y-seguridad-iam.md).
+
+---
+
+## 6. De estudiante a creador: masterclasses y Hub de Creadores
+
+Este programa adopta la metodologia del **Bootcamp de Creadores de Contenido Tech LATAM 2026** y los aprendizajes practicos del laboratorio `lab-red-team`:
+
+- **Conectar > Impresionar:** En la industria, el valor radica en explicar que construiste, que error ocurrio en la consola, como lo resolviste y cuanto te costo.
+- **Masterclasses oficiales del Bootcamp en YouTube:** Enlaces directos a las clases magistrales impartidas por AWS Heroes y Community Builders.
+- **Ejemplos reales en el Space de Builder Center:** Revisa las tareas publicadas por Roberto Flores (Siegfried) que abarcan desde el pitch inicial hasta el articulo tecnico de seguridad.
+- **Hub Comunitario de Creadores:** Sube tus articulos a [creadores.awsugplayavicente.com](https://creadores.awsugplayavicente.com/) para que el AWS User Group Playa Vicente amplifique y visibilice tus publicaciones tecnicas en toda la region.
+
+Consulta la guia de redaccion y enlaces del Bootcamp en:
 [guias/como-crear-contenido-y-compartir-proyectos.md](guias/como-crear-contenido-y-compartir-proyectos.md).
 
 ---
 
-## 6. Politica de costos transparentes y laboratorios en $0 USD
+## 7. Politica de costos transparentes y laboratorios en $0 USD
 
 Todos los laboratorios disenados para este programa respetan la capa gratuita (Free Tier) de AWS o se ejecutan en simuladores controlados sin riesgo financiero:
 
@@ -112,7 +123,7 @@ aws ec2 describe-instances \
 
 ---
 
-## 7. Comunidad y canales de contacto
+## 8. Comunidad y canales de contacto
 
 - **Organizador:** AWS User Group Playa Vicente (Veracruz, Mexico)
 - **Lider de comunidad:** Roberto Flores Segundo (Siegfried)
