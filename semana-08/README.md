@@ -1,40 +1,48 @@
 # Semana 08: Inteligencia artificial generativa sin código con PartyRock y Bedrock
 
 **Programa:** De cero a cloud — [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/)  
-**Ponente invitada:** [Joselyn Lagunas](https://www.linkedin.com/in/joselyn-lagunas/) (Shel Ramos, Fundadora de AWSpectrum LATAM)  
+**Ponente invitada:** [Joselyn Lagunas](https://www.linkedin.com/in/joselyn-lagunas/) (Shel Ramos, Fundadora de AWSpectrum LATAM y Community Builder en Machine Learning)  
 **Host:** [Roberto Flores Segundo](https://www.linkedin.com/in/roberto-flores-b1a012322/)  
 **Modalidad:** Online en vivo (Discord Live)  
-**Grabacion en YouTube:** [Ver clase completa en YouTube](https://www.youtube.com/watch?v=MkO32Tm_kIo)  
+**Grabación en YouTube:** [Ver clase completa en YouTube](https://www.youtube.com/watch?v=MkO32Tm_kIo)  
 **Playlist oficial:** [De cero a cloud en YouTube](https://www.youtube.com/watch?v=8kL1HYphkns&list=PLGzDHDkhvPhg)
 
 ---
 
-## 1. Lo que realmente se enseno en vivo
+## 1. Lo que realmente se enseñó en vivo
 
-Shel Ramos mostro como cualquier persona puede pasar de tener una idea a desplegar una aplicacion inteligente funcional en cuestion de minutos sin requerir infraestructura ni conocimientos avanzados de programacion:
+Joselyn Lagunas (Shel Ramos, líder de la comunidad oficial AWSpectrum LATAM y de Quantum Observers) dirigió un workshop práctico para construir aplicaciones de inteligencia artificial generativa funcionales en minutos, sin necesidad de escribir código ni registrar tarjetas de crédito:
 
-1. **Introduccion a Amazon Bedrock y Modelos Fundacionales:**  
-   Conceptos elementales sobre como interactuan los modelos fundacionales (FMs) de lenguaje y vision multimodal alojados en AWS.
-2. **Construccion de aplicaciones con PartyRock:**  
-   Uso del entorno visual [partyrock.aws](https://partyrock.aws/), que no requiere tarjeta de credito ni suscripcion previa para experimentar.
-3. **Encadenamiento modular de widgets:**  
-   Conexion logica entre elementos de entrada de usuario (*User Input*), generadores de texto analitico (*Text Generation*) y generadores de imagenes con Amazon Titan Image Generator.
-4. **Ingenieria de prompts orientada a resultados:**  
-   Tecnicas para definir roles claros, limitar el alcance de las respuestas, forzar estructuras consistentes (como tablas o viñetas tecnicas) y reducir la aparicion de datos inventados (alucinaciones).
-5. **Publicacion comunitaria:**  
-   Como compartir la aplicacion terminada mediante un enlace público para que otros estudiantes y evaluadores puedan probarla en tiempo real.
+### De la IA predictiva tradicional a los modelos fundacionales
+- **IA Tradicional (Clasificación):** Recibe datos o imágenes y clasifica según patrones fijos (ej. determinar si una imagen contiene un gato o un perro).
+- **IA Generativa:** A partir de instrucciones en lenguaje natural (*prompts*) y contexto, interactúa con modelos fundacionales preentrenados (disponibles en Amazon Bedrock) para sintetizar contenido completamente nuevo: texto, código, imágenes hiperrealistas, audio y modelos 3D.
+- **Acceso universal sin barreras financieras:** Se utilizó **PartyRock** (el entorno lúdico de prototipado rápido impulsado por Amazon Bedrock), demostrando que cualquier estudiante puede acceder gratuitamente iniciando sesión con Google, Apple o AWS Builder ID sin ingresar datos bancarios.
 
 ---
 
-## 2. Componentes clave utilizados en una app de PartyRock
+## 2. Ingeniería de prompts (*Prompt Engineering*) estructurada por capas
 
-- **User Input Widget:** Recibe el requerimiento o texto inicial proporcionado por el usuario final.
-- **Prompt Widget:** Aplica la plantilla de instrucciones del sistema, incorporando referencias a variables mediante sintaxis `@Input`.
-- **Image Generation Widget:** Toma la descripcion sintetica producida por el modelo de texto y la transfiere al modelo de difusion visual de Amazon Titan.
+Shel Ramos desmitificó la creencia de que la IA "adivina" o "busca respuestas en una lista prefabricada". Enseñó a formular prompts con rigor técnico para evitar resultados genéricos:
+
+1. **Mal prompt vs. Buen prompt:**  
+   * *Mal prompt:* `"Dime mi Pokémon"`. El modelo carece de contexto y genera respuestas predecibles y planas.  
+   * *Buen prompt:* Estructuración por capas con rol, contexto y restricciones explícitas.
+2. **Los cuatro bloques de un prompt profesional:**
+   - **Rol:** Asignar una identidad clara al modelo (*"Eres un sabio y místico adivino de Pokémon..."*).
+   - **Contexto y variables:** Inyección dinámica de entradas del usuario (`@nombre`, `@tecnología_favorita`, `@personalidad`).
+   - **Tarea concreta:** Instrucción unívoca (*"Selecciona el Pokémon que mejor represente las fortalezas del usuario y vaticina su futuro como arquitecto cloud"*).
+   - **Restricciones y formato de salida (*Guardrails*):** Límites de extensión (ej. menos de 100 palabras), tono de comunicación y estructura fija de salida para evitar divagaciones.
 
 ---
 
-## 3. Lecciones operativas
+## 3. Construcción en vivo de la aplicación en PartyRock
 
-- **Sensibilidad al contexto:** Los modelos fundacionales responden mejor cuando se les delimita con exactitud que rol deben asumir y cual es la audiencia de la salida (por ejemplo: "Eres un auditor de seguridad explicando un reporte a un director de tecnologia").
-- **Herramienta ideal para prototipado rapido:** PartyRock demostro ser el entorno predilecto para validar ideas antes de pasar a desarrollar una solucion serverless completa con Amazon Bedrock en código Python o TypeScript.
+En la pantalla en vivo, Shel construyó paso a paso la aplicación *"Adivinador de Pokémon y tu futuro tecnológico"*:
+
+- **Composición modular con Widgets:**
+  * `User Input`: Bloques interactivos donde el usuario ingresa su nombre, su stack técnico preferido y sus rasgos de personalidad.
+  * `Text Generation`: Conexión de variables mediante menciones (`@nombre`, `@tecnología`) para redactar la predicción personalizada.
+  * `Image Generation`: Generación automática de una ilustración del Pokémon seleccionado en un entorno de servidores y centros de datos de AWS.
+  * `File Upload`: Demostró cómo adjuntar una lista externa de Pokémons oficiales para evitar **alucinaciones** (evitando que el modelo invente criaturas que no existen).
+- **El asistente Whiskers:** Uso de la herramienta interna de PartyRock para auditar la calidad y claridad de los prompts en cada widget antes de publicar.
+- **Publicación y compartición comunitaria:** Cómo generar el enlace público de la aplicación con un solo clic para que cualquier compañero de la comunidad la pruebe e interactúe en vivo.
