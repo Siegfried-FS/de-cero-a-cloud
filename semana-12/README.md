@@ -21,7 +21,7 @@ El Demo Day represento la culminacion del programa de 12 semanas, donde tres est
 - **Arquitectura:** PartyRock para prototipado acelerado, desarrollo asistido con Kiro IDE, almacenamiento en Amazon S3, backend con AWS Lambda y publicacion en AWS Amplify.
 - **Proposito:** Plataforma de respuesta agil para emergencias civiles y coordinacion comunitaria en zonas con infraestructura comprometida.
 
-### 3. Planetary Defense — Gustavo Herrera Barrera
+### 3. Planetary Defense — [Gustavo Herrera Barrera](https://www.linkedin.com/in/tavo10/)
 - **Arquitectura:** Integracion con la API abierta NeoWs de la NASA, Function Calling en Amazon Bedrock, tareas programadas en Amazon EventBridge y computo serverless en AWS Lambda.
 - **Proposito:** Monitoreo y clasificacion automatizada de objetos cercanos a la Tierra (NEOs) con alertas tempranas ante aproximaciones potencialmente peligrosas.
 

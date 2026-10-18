@@ -16,6 +16,7 @@ Este espacio está pensado para estudiantes, desarrolladores y entusiastas que b
 6. De estudiante a creador: masterclasses, Space del Bootcamp y Hub de Creadores
 7. Política de costos transparentes y laboratorios en $0 USD
 8. Comunidad y canales de contacto
+9. Licencia de uso
 
 ---
 
@@ -49,7 +50,7 @@ A continuación se presenta el registro de cada sesión, con el enlace directo a
 | 09 | Chatbots con IA: Amazon Lex, Bedrock, OpenSearch y Amazon S3 | [Daniel Paredes](https://www.linkedin.com/in/wallsified/) (Líder AWS Student Builder Group UNAM) | [Ver video](https://www.youtube.com/watch?v=ds_IrxVN-YI) | [semana-09/README.md](semana-09/README.md) |
 | 10 | IA aplicada y accesibilidad: el caso real de CogniPath | [Misael Calisaya](https://www.linkedin.com/in/misaelcalisaya/) (Finalista Global AWS AIdeas / UCASAL) | [Ver video](https://www.youtube.com/watch?v=XyhME9QdBnI) | [semana-10/README.md](semana-10/README.md) |
 | 11 | Cómo entrar a trabajar a un AWS Partner sin saber de AWS | [Roberto Flores Segundo](https://www.linkedin.com/in/roberto-flores-b1a012322/) (Líder [AWS UG Playa Vicente](https://www.awsugplayavicente.com/)) | [Ver video](https://www.youtube.com/watch?v=ty-iHdY94_U) | [semana-11/README.md](semana-11/README.md) |
-| 12 | Clausura oficial y demo day de proyectos de alumnos | [Mariana Ponce](https://www.linkedin.com/in/mariana-ponce-sep%C3%BAlveda-88744272/), [Sandra Elizabeth Olier](https://www.linkedin.com/in/sandra-olier), Gustavo Herrera | Próximamente en YouTube | [semana-12/README.md](semana-12/README.md) |
+| 12 | Clausura oficial y demo day de proyectos de alumnos | [Mariana Ponce](https://www.linkedin.com/in/mariana-ponce-sep%C3%BAlveda-88744272/), [Sandra Elizabeth Olier](https://www.linkedin.com/in/sandra-olier), [Gustavo Herrera](https://www.linkedin.com/in/tavo10/) | Próximamente en YouTube | [semana-12/README.md](semana-12/README.md) |
 
 ---
 
@@ -147,4 +148,15 @@ aws ec2 describe-instances \
 - **GitHub:** [@Siegfried-FS](https://github.com/Siegfried-FS)
 - **Sitio web personal:** [siegfried-fs.com](https://siegfried-fs.com)
 - **Correo electrónico:** [roberto.flores@siegfried-fs.com](mailto:roberto.flores@siegfried-fs.com)
+
+---
+
+## 9. Licencia de uso
+
+Este material formativo, sus guías pedagógicas y sus bitácoras técnicas están protegidos bajo la licencia **[Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](LICENSE)**.
+
+- **Libre para estudiar y compartir:** Cualquier persona es libre de clonar, estudiar, consultar y redistribuir este contenido de manera comunitaria y gratuita.
+- **Prohibido el lucro o la venta comercial:** Queda estrictamente prohibida la venta, comercialización o inclusión de este material en cursos, bootcamps o plataformas de pago.
+- **Reconocimiento de autoría:** Cualquier uso derivado o referencia debe dar crédito a Roberto Flores Segundo y al [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/).
+
 

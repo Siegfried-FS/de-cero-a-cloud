@@ -1,21 +1,20 @@
-MIT License
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-Copyright (c) 2026 Roberto Flores Segundo - AWS User Group Playa Vicente
+Copyright (c) 2026 Roberto Flores Segundo - AWS User Group Playa Vicente (Veracruz, México)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Este repositorio y todos sus materiales educativos, bitácoras técnicas, guías de estudio y recursos de aprendizaje están licenciados bajo la licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0 (CC BY-NC-SA 4.0).
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Usted es libre de:
+* Compartir — Copiar y redistribuir el material en cualquier medio o formato con fines educativos y comunitarios.
+* Adaptar — Remezclar, transformar y crear a partir del material para propósitos de enseñanza y aprendizaje.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Bajo los siguientes términos:
+1. Atribución (BY): Debe dar crédito de manera adecuada a Roberto Flores Segundo y al AWS User Group Playa Vicente, proporcionar un enlace a la licencia e indicar si se han realizado cambios.
+2. No Comercial (NC): No puede hacer uso del material con fines comerciales, de lucro o venta directa ni indirecta. Queda estrictamente prohibida la venta, comercialización o inclusión de este contenido en cursos de pago.
+3. Compartir Igual (SA): Si remezcla, transforma o crea a partir del material, debe distribuir su contribución bajo la misma licencia que el original.
+
+Código de ejemplo y comandos CLI:
+Los fragmentos de código, scripts de bash y comandos de AWS CLI incluidos en este repositorio se proporcionan de forma libre para su ejecución, práctica en laboratorios personales y aprendizaje práctico sin costo.
+
+Texto legal completo disponible en:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es
