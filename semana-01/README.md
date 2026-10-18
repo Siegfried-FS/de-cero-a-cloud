@@ -63,7 +63,7 @@ aws s3 sync ./sitio-web s3://mi-sitio-estático-augpv
 - Introducción a **Kiro IDE**, el entorno de desarrollo asistido por IA de AWS, tanto en su interfaz gráfica como en terminal.
 - Creación de la estructura del proyecto y del archivo de flujo de trabajo `.github/workflows/deploy.yml`.
 - Demostración de despliegue continuo: cómo un simple `git push` a la rama principal dispara el workflow para sincronizar los cambios en S3 en segundos.
-- **Anécdota real de la demo en vivo:** Se produjo un fallo de autenticación en GitHub Actions por credenciales apuntando a otra prueba anterior. Roberto aprovechó el incidente para enseñar depuración de pipelines en vivo y recalcó la regla de oro: *"Nunca hagas cambios de última hora al código antes de salir a una demo en directo"*.
+- **Anécdota real de la demo en vivo:** Se produjo un fallo de autenticación en GitHub Actions por credenciales apuntando a otra prueba anterior. Roberto aprovechó el incidente para enseñar depuración de pipelines en vivo y recalcó una lección indispensable: *"Nunca hagas cambios de última hora al código antes de salir a una demo en directo"*.
 
 ---
 

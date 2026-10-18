@@ -34,7 +34,7 @@ David Sol (arquitecto de nube con más de 30 años de experiencia técnica) impa
    - Lanzado en AWS re:Invent 2014.
    - Modelo *stateless* y cobro estricto por tiempo de cómputo y número de peticiones (20 centavos de dólar por millón de invocaciones).
    - Límite de ejecución de 15 minutos por función.
-   - **Regla de oro de David Sol:**  
+   - **Principio de diseño de David Sol:**  
      > *"Las Lambdas son para transformar datos, no para transportarlos. Si tu función solo toma bytes de un lado y los pasa a otro sin procesarlos, está mal arquitectada"*.
 
 ---

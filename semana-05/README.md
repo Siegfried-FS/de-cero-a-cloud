@@ -43,7 +43,7 @@ Roberto desglosó los tres tipos de direcciones IP en Amazon EC2 y sus reglas de
 1. **IP Privada (Interna):** Como la extensión telefónica interna de una oficina. Es fija durante la vida útil de la instancia e invisible desde el internet público.
 2. **IP Pública Dinámica (Efímera):** Como la llave prestada de una habitación de hotel. Es gratuita mientras la instancia esté encendida, pero cambia automáticamente al apagarla o reiniciarla.
 3. **IP Elástica (*Elastic IP*):** Como un número telefónico móvil personal reservado. Permanece fijo sin importar cuántas veces reinicies o reemplaces el servidor.
-4. **¡Regla de oro de costos ($0.00 USD)!:**  
+4. **Principio fundamental de costos ($0.00 USD):**  
    > Una IP Elástica que esté reservada en tu cuenta pero **NO esté asociada a una instancia encendida genera un cobro por hora**. AWS implementó esta regla para penalizar el desperdicio de direcciones IPv4 públicas escasas. Al terminar una práctica, la IP elástica debe liberarse (*Release*).
 
 ---
