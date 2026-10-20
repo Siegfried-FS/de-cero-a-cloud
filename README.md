@@ -50,7 +50,7 @@ A continuación se presenta el registro de cada sesión, con el enlace directo a
 | 09 | Chatbots con IA: Amazon Lex, Bedrock, OpenSearch y Amazon S3 | [Daniel Paredes](https://www.linkedin.com/in/wallsified/) (Líder AWS Student Builder Group UNAM) | [Ver video](https://www.youtube.com/watch?v=ds_IrxVN-YI) | [semana-09/README.md](semana-09/README.md) |
 | 10 | IA aplicada y accesibilidad: el caso real de CogniPath | [Misael Calisaya](https://www.linkedin.com/in/misaelcalisaya/) (Finalista Global AWS AIdeas / UCASAL) | [Ver video](https://www.youtube.com/watch?v=XyhME9QdBnI) | [semana-10/README.md](semana-10/README.md) |
 | 11 | Cómo entrar a trabajar a un AWS Partner sin saber de AWS | [Roberto Flores Segundo](https://www.linkedin.com/in/roberto-flores-b1a012322/) (Líder [AWS UG Playa Vicente](https://www.awsugplayavicente.com/)) | [Ver video](https://www.youtube.com/watch?v=ty-iHdY94_U) | [semana-11/README.md](semana-11/README.md) |
-| 12 | Clausura oficial y demo day de proyectos de alumnos | [Mariana Ponce](https://www.linkedin.com/in/mariana-ponce-sep%C3%BAlveda-88744272/), [Sandra Elizabeth Olier](https://www.linkedin.com/in/sandra-olier), [Gustavo Herrera](https://www.linkedin.com/in/tavo10/) | [Ver video](https://youtu.be/X80XaYPQjRM) | [semana-12/README.md](semana-12/README.md) |
+| 12 | Clausura oficial y demo day de proyectos de alumnos | [Mariana Ponce](https://www.linkedin.com/in/mariana-ponce-sep%C3%BAlveda-88744272/), [Sandra Elizabeth Olier](https://www.linkedin.com/in/sandra-olier), [Gustavo Herrera](https://www.linkedin.com/in/tavo10/) | [Ver video](https://www.youtube.com/watch?v=X80XaYPQjRM) | [semana-12/README.md](semana-12/README.md) |
 
 ### Retos prácticos oficiales y enlaces a laboratorios ($0.00 USD)
 

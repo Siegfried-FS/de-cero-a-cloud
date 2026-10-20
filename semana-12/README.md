@@ -9,9 +9,9 @@
 
 ---
 
-## 1. Lo que realmente se vivio en la gran clausura
+## 1. Lo que realmente se vivió en la gran clausura
 
-El Demo Day represento la culminacion del programa de 12 semanas, donde tres estudiantes destacados expusieron en vivo ante la comunidad proyectos tecnologicos completos concebidos, arquitectados y desplegados por ellos mismos en AWS:
+El Demo Day representó la culminación del programa de 12 semanas, donde tres estudiantes destacados expusieron en vivo ante la comunidad proyectos tecnológicos completos concebidos, arquitectados y desplegados por ellos mismos en AWS:
 
 ### 1. Emergency Assist — [Sandra Elizabeth Olier](https://www.linkedin.com/in/sandra-olier)
 - **Arquitectura:** PartyRock para prototipado acelerado, desarrollo asistido con Kiro IDE, almacenamiento en Amazon S3, backend con AWS Lambda y publicación en AWS Amplify.
@@ -22,14 +22,14 @@ El Demo Day represento la culminacion del programa de 12 semanas, donde tres est
 - **Propósito:** Clasificación automatizada de alertas de ciberseguridad y análisis de vulnerabilidades en tiempo real, integrando un mecanismo heurístico de respaldo ante fallos de conectividad.
 
 ### 3. Planetary Defense — [Gustavo Herrera Barrera](https://www.linkedin.com/in/tavo10/)
-- **Arquitectura:** Integracion con la API abierta NeoWs de la NASA, Function Calling en Amazon Bedrock, tareas programadas en Amazon EventBridge y cómputo serverless en AWS Lambda.
+- **Arquitectura:** Integración con la API abierta NeoWs de la NASA, Function Calling en Amazon Bedrock, tareas programadas en Amazon EventBridge y cómputo serverless en AWS Lambda.
 - **Propósito:** Monitoreo y clasificación automatizada de objetos cercanos a la Tierra (NEOs) con alertas tempranas ante aproximaciones potencialmente peligrosas.
 
 ---
 
 ## 2. Lección final del programa
 
-El objetivo de **De cero a cloud** nunca fue acumular horas de teoria, sino demostrar que con perseverancia, comunidad y acceso guiado a herramientas modernas de nube, cualquier persona puede pasar de tener cero experiencia a defender publicamente una arquitectura tecnologica propia.
+El objetivo de **De cero a cloud** nunca fue acumular horas de teoría, sino demostrar que con perseverancia, comunidad y acceso guiado a herramientas modernas de nube, cualquier persona puede pasar de tener cero experiencia a defender públicamente una arquitectura tecnológica propia.
 
 Invitamos a todos los estudiantes a continuar compartiendo sus avances, escribiendo en AWS Builder Center y participando activamente en los encuentros del [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/).
 
