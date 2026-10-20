@@ -13,13 +13,13 @@
 
 El Demo Day represento la culminacion del programa de 12 semanas, donde tres estudiantes destacados expusieron en vivo ante la comunidad proyectos tecnologicos completos concebidos, arquitectados y desplegados por ellos mismos en AWS:
 
-### 1. CyberGuard AI — [Mariana Ponce Sepúlveda](https://www.linkedin.com/in/mariana-ponce-sep%C3%BAlveda-88744272/)
-- **Arquitectura:** Amazon Bedrock, AWS Lambda, Amazon API Gateway y hosting en AWS Amplify.
-- **Propósito:** Clasificación automatizada de alertas de ciberseguridad y análisis de vulnerabilidades en tiempo real, integrando un mecanismo heuristico de respaldo ante fallos de conectividad.
+### 1. Emergency Assist — [Sandra Elizabeth Olier](https://www.linkedin.com/in/sandra-olier)
+- **Arquitectura:** PartyRock para prototipado acelerado, desarrollo asistido con Kiro IDE, almacenamiento en Amazon S3, backend con AWS Lambda y publicación en AWS Amplify.
+- **Propósito:** Plataforma de respuesta ágil para emergencias civiles y coordinación comunitaria en zonas con infraestructura comprometida.
 
-### 2. Emergency Assist — [Sandra Elizabeth Olier](https://www.linkedin.com/in/sandra-olier)
-- **Arquitectura:** PartyRock para prototipado acelerado, desarrollo asistido con Kiro IDE, almacenamiento en Amazon S3, backend con AWS Lambda y publicacion en AWS Amplify.
-- **Propósito:** Plataforma de respuesta agil para emergencias civiles y coordinación comunitaria en zonas con infraestructura comprometida.
+### 2. CyberGuard AI — [Mariana Ponce Sepúlveda](https://www.linkedin.com/in/mariana-ponce-sep%C3%BAlveda-88744272/)
+- **Arquitectura:** Amazon Bedrock, AWS Lambda, Amazon API Gateway y hosting en AWS Amplify.
+- **Propósito:** Clasificación automatizada de alertas de ciberseguridad y análisis de vulnerabilidades en tiempo real, integrando un mecanismo heurístico de respaldo ante fallos de conectividad.
 
 ### 3. Planetary Defense — [Gustavo Herrera Barrera](https://www.linkedin.com/in/tavo10/)
 - **Arquitectura:** Integracion con la API abierta NeoWs de la NASA, Function Calling en Amazon Bedrock, tareas programadas en Amazon EventBridge y cómputo serverless en AWS Lambda.
