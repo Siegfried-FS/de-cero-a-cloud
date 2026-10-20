@@ -4,7 +4,7 @@
 **Host y moderador:** [Roberto Flores Segundo](https://www.linkedin.com/in/roberto-flores-b1a012322/)  
 **Modalidad:** Online en vivo (Discord Live)  
 **Registro oficial:** [Evento en AWS Builder Center](https://builder.aws.com/connect/event/aa0ad2d0-8eca-373c-9e33-ff85e6065c8e)  
-**Grabación en YouTube:** *En proceso de edicion final para publicacion oficial*  
+**Grabación en YouTube:** [Ver Demo Day y Clausura en YouTube](https://youtu.be/X80XaYPQjRM)  
 **Playlist oficial:** [De cero a cloud en YouTube](https://www.youtube.com/watch?v=8kL1HYphkns&list=PLGzDHDkhvPhg)
 
 ---
