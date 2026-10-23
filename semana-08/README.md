@@ -1,7 +1,7 @@
 # Semana 08: Inteligencia artificial generativa sin código con PartyRock y Bedrock
 
 **Programa:** De cero a cloud — [AWS User Group Playa Vicente](https://www.awsugplayavicente.com/)  
-**Ponente invitada:** [Joselyn Lagunas](https://www.linkedin.com/in/joselyn-lagunas/) (Shel Ramos, Fundadora de AWSpectrum LATAM y Community Builder en Machine Learning)  
+**Ponente invitada:** [Joselyn Montserrat Lagunas Sanabria](https://www.linkedin.com/in/joselyn-lagunas/) (Shel, Fundadora de AWSpectrum LATAM y Community Builder en Machine Learning)  
 **Host:** [Roberto Flores Segundo](https://www.linkedin.com/in/roberto-flores-b1a012322/)  
 **Modalidad:** Online en vivo (Discord Live)  
 **Grabación en YouTube:** [Ver clase completa en YouTube](https://www.youtube.com/watch?v=MkO32Tm_kIo)  
@@ -11,7 +11,7 @@
 
 ## 1. Lo que realmente se enseñó en vivo
 
-Joselyn Lagunas (Shel Ramos, líder de la comunidad oficial AWSpectrum LATAM y de Quantum Observers) dirigió un workshop práctico para construir aplicaciones de inteligencia artificial generativa funcionales en minutos, sin necesidad de escribir código ni registrar tarjetas de crédito:
+Joselyn Montserrat Lagunas Sanabria (Shel, líder de la comunidad oficial AWSpectrum LATAM y de Quantum Observers) dirigió un workshop práctico para construir aplicaciones de inteligencia artificial generativa funcionales en minutos, sin necesidad de escribir código ni registrar tarjetas de crédito:
 
 ### De la IA predictiva tradicional a los modelos fundacionales
 - **IA Tradicional (Clasificación):** Recibe datos o imágenes y clasifica según patrones fijos (ej. determinar si una imagen contiene un gato o un perro).
@@ -22,7 +22,7 @@ Joselyn Lagunas (Shel Ramos, líder de la comunidad oficial AWSpectrum LATAM y d
 
 ## 2. Ingeniería de prompts (*Prompt Engineering*) estructurada por capas
 
-Shel Ramos desmitificó la creencia de que la IA "adivina" o "busca respuestas en una lista prefabricada". Enseñó a formular prompts con rigor técnico para evitar resultados genéricos:
+Joselyn (Shel) desmitificó la creencia de que la IA "adivina" o "busca respuestas en una lista prefabricada". Enseñó a formular prompts con rigor técnico para evitar resultados genéricos:
 
 1. **Mal prompt vs. Buen prompt:**  
    * *Mal prompt:* `"Dime mi Pokémon"`. El modelo carece de contexto y genera respuestas predecibles y planas.  
